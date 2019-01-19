@@ -4,12 +4,12 @@ CONCLUSIONS: The receipt of a clinically not significant discrepant report leads
 abstract_short: ""
 authors:
 - Paniz Charkhchi
-- '**Bingkai Wang**'
+- '*Bingkai Wang*'
 - Brian Caffo
 - David Yousem
 date: "2018-01-17T00:00:00-04:00"
 doi: ""
-draft: true
+draft: false
 image:
   caption: ''
   focal_point: ""
@@ -20,6 +20,7 @@ publication_short: ''
 publication_types:
 - "2"
 selected: false
+slides: ''
 tags: []
 title: 'Bias in Neuroradiology Peer Review: Impact of a “Ding” on “Dinging” Others'
 url_code: ''

@@ -3,13 +3,13 @@ abstract: 'Modeling variances in data has been an important topic in many fields
 abstract_short: ""
 authors:
 - Yi Zhao
-- '**Bingkai Wang**'
+- '*Bingkai Wang*'
 - Stewart Mostofsky
 - Brian Caffo
 - Xi Luo
 date: "2018-01-17T00:00:00-04:00"
 doi: ""
-draft: true
+draft: false
 image:
   caption: ''
   focal_point: ""
@@ -20,6 +20,7 @@ publication_short: ''
 publication_types:
 - "3"
 selected: true
+slides: ''
 tags: []
 title: Covariate Assisted Principal Regression for Covariance Matrix Outcomes
 url_code: ''
