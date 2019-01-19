@@ -17,7 +17,7 @@ publication: ''
 publication_short: ''
 publication_types:
 - "3"
-selected: true
+selected: false
 tags: []
 title: Analysis of Covariance (ANCOVA) in Randomized Trials
 url_code: https://github.com/BingkaiWang/CovariateAdjustment
