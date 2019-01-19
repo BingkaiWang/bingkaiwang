@@ -2,41 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Bingkai Wang</title>
-    <link>/publication/</link>
+    <link>/infallible-jennings-0fe40d.netlify.com/publication/</link>
     <description>Recent content in Publications on Bingkai Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/infallible-jennings-0fe40d.netlify.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Analysis of Covariance (ANCOVA) in Randomized Trials</title>
-      <link>/publication/ancova/</link>
+      <link>/infallible-jennings-0fe40d.netlify.com/publication/ancova/</link>
       <pubDate>Thu, 18 Jan 2018 00:00:00 -0400</pubDate>
       
-      <guid>/publication/ancova/</guid>
+      <guid>/infallible-jennings-0fe40d.netlify.com/publication/ancova/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bias in Neuroradiology Peer Review: Impact of a “Ding” on “Dinging” Others</title>
-      <link>/publication/ajnr/</link>
+      <link>/infallible-jennings-0fe40d.netlify.com/publication/ajnr/</link>
       <pubDate>Thu, 18 Jan 2018 00:00:00 -0400</pubDate>
       
-      <guid>/publication/ajnr/</guid>
+      <guid>/infallible-jennings-0fe40d.netlify.com/publication/ajnr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Covariate Assisted Principal Regression for Covariance Matrix Outcomes</title>
-      <link>/publication/cov-reg/</link>
+      <link>/infallible-jennings-0fe40d.netlify.com/publication/cov-reg/</link>
       <pubDate>Thu, 18 Jan 2018 00:00:00 -0400</pubDate>
       
-      <guid>/publication/cov-reg/</guid>
+      <guid>/infallible-jennings-0fe40d.netlify.com/publication/cov-reg/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>/infallible-jennings-0fe40d.netlify.com/publication/person-re-id/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/infallible-jennings-0fe40d.netlify.com/publication/person-re-id/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
   </channel>

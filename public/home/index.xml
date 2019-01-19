@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Bingkai Wang</title>
-    <link>/home/</link>
+    <link>/infallible-jennings-0fe40d.netlify.com/home/</link>
     <description>Recent content in Homes on Bingkai Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 17 Jan 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/infallible-jennings-0fe40d.netlify.com/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/about/</link>
+      <link>/infallible-jennings-0fe40d.netlify.com/home/about/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 -0400</pubDate>
       
-      <guid>/home/about/</guid>
+      <guid>/infallible-jennings-0fe40d.netlify.com/home/about/</guid>
       <description>Biography Bingkai Wang is a Ph.D student of Biostatistics in Johns Hopkins Bloomberg School of Public Health. Under the advisory of Prof. Michael Rosenblum and Prof. Brian Caffo, his research interests include covariate adjustment in randomized clinical trials, fMRI data analysis and application of machine learning algorithms.</description>
     </item>
     
     <item>
       <title>Experiences</title>
-      <link>/home/experience/</link>
+      <link>/infallible-jennings-0fe40d.netlify.com/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/experience/</guid>
+      <guid>/infallible-jennings-0fe40d.netlify.com/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/home/publications/</link>
+      <link>/infallible-jennings-0fe40d.netlify.com/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/publications/</guid>
+      <guid>/infallible-jennings-0fe40d.netlify.com/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Activities</title>
-      <link>/home/activities/</link>
+      <link>/infallible-jennings-0fe40d.netlify.com/home/activities/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/activities/</guid>
+      <guid>/infallible-jennings-0fe40d.netlify.com/home/activities/</guid>
       <description> Presentations  Benefits of adjustment for baseline variables in randomized trials. JSM, Baltimore, USA, July 2017. Clarifying How Adjustment for Prognostic Baseline Variables Leads to More Precision and Less Bias in Randomized Trials. ENAR, Atlanta, USA, March 2018.  Teaching  Teaching Assistant and Guest Lecturer, Statistical Theory I-IV, 2017-2018 Teaching Assistant and Guest Lecturer, Advanced Data Science I-II, 2018  </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/home/contact/</link>
+      <link>/infallible-jennings-0fe40d.netlify.com/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/contact/</guid>
+      <guid>/infallible-jennings-0fe40d.netlify.com/home/contact/</guid>
       <description></description>
     </item>
     
