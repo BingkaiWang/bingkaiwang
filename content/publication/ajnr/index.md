@@ -23,9 +23,6 @@ selected: false
 tags: []
 title: 'Bias in Neuroradiology Peer Review: Impact of a “Ding” on “Dinging” Others'
 url_code: ''
-# url_custom:
-# - name: Custom Link
-#   url: http://example.org
 url_dataset: ''
 url_pdf: http://www.ajnr.org/content/early/2018/12/06/ajnr.A5908
 url_poster: ''

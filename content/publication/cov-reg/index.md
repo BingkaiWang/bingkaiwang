@@ -23,9 +23,6 @@ selected: true
 tags: []
 title: Covariate Assisted Principal Regression for Covariance Matrix Outcomes
 url_code: ''
-# url_custom:
-# - name: Custom Link
-#   url: http://example.org
 url_dataset: ''
 url_pdf: https://www.biorxiv.org/content/early/2018/09/23/425033
 url_poster: ''
