@@ -2,20 +2,171 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bingkai Wang on Bingkai Wang</title>
-    <link>/infallible-jennings-0fe40d.netlify.com/</link>
+    <link>/</link>
     <description>Recent content in Bingkai Wang on Bingkai Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 17 Jan 2018 00:00:00 -0400</lastBuildDate>
-    <atom:link href="/infallible-jennings-0fe40d.netlify.com/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to build a personal webpage in R</title>
+      <link>/blog/how-to-build-such-a-website/</link>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/how-to-build-such-a-website/</guid>
+      <description>
+
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#build-your-website-using-blogdown&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;1&lt;/span&gt; Build your website using Blogdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#publish-your-website&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;2&lt;/span&gt; Publish your website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#customize-your-domain&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;3&lt;/span&gt; Customize your domain&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#resources-and-tools&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;4&lt;/span&gt; Resources and tools&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;As a statistician, learning the basics of website construction is painful and time-consuming. To build a website without such knowledge, one option is to use an online webpage builder such as &lt;a href=&#34;https://www.wix.com/&#34;&gt;Wix&lt;/a&gt; and &lt;a href=&#34;www.wordpress.com/&#34;&gt;WordPress&lt;/a&gt;. Such online builders are easy to use, but there are deficiencies:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You usually need to pay monthly to get rid of the logo or ads provided by the builder.&lt;/li&gt;
+&lt;li&gt;You may have to pay more to use a customized domain, such as &lt;code&gt;your-name.com&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;It is hard to insert code snippets or formulas. Just imagine doing that in Word.&lt;/li&gt;
+&lt;li&gt;It is hard to add the function you want.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To avoid payment and save time, I switched to another option: &lt;code&gt;Blogdown&lt;/code&gt;, recently developed by Yihui Xie, Amber Thomas, Alison Presmanes Hill. The advantages of &lt;code&gt;Blogdown&lt;/code&gt;, especially for R users, are obvious:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Everything is done in Rstudio.&lt;/li&gt;
+&lt;li&gt;Free.&lt;/li&gt;
+&lt;li&gt;You can write your blog or post through &lt;code&gt;Rmarkdown&lt;/code&gt;, which is compatible to R programming and math environment.&lt;/li&gt;
+&lt;li&gt;You pay a small amount of money to use a customized domain. (I paid $7.99/year for using &lt;code&gt;bingkaiwang.com&lt;/code&gt;.)&lt;/li&gt;
+&lt;li&gt;With GitHub, once you push a change, it will show on the webpage immediately.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In this article, I will give an overview on how to construct a website using &lt;code&gt;Blogdown&lt;/code&gt;. A detailed and well-written tutorial of &lt;code&gt;Blogdown&lt;/code&gt; can be found &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;build-your-website-using-blogdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;1&lt;/span&gt; Build your website using Blogdown&lt;/h1&gt;
+&lt;div id=&#34;prerequistes&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;1.1&lt;/span&gt; Prerequistes&lt;/h2&gt;
+&lt;p&gt;To use the R package &lt;code&gt;Blogdown&lt;/code&gt;, here is some knowledge you need to know:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;basic Rstudio programming,&lt;/li&gt;
+&lt;li&gt;R markdown,&lt;/li&gt;
+&lt;li&gt;(recommended) GitHub.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you are familiar with all of above, then you are ready to start!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;steps-to-build-a-website&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;1.2&lt;/span&gt; Steps to build a website&lt;/h2&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;Open Rstudio and install required packages by &lt;code&gt;install.packages(&amp;quot;blogdown&amp;quot;)&lt;/code&gt; and &lt;code&gt;blogdown::install_hugo()&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Make sure your Rstudio version is at least v1.1.383. Then create a website project from the menu &lt;code&gt;File -&amp;gt; New Project -&amp;gt; New Directory&lt;/code&gt;. In the next step, select &lt;code&gt;Website using blogdown&lt;/code&gt;. In the next step, choose the directory, give a directory name and click “Create Project”. (Notice that the default theme is “hugo-lithium”.How to use others themes is introduced in the next section.) &lt;img src=&#34;/img/blog-img/how-to-build-such-a-website/steps1.png&#34; /&gt; &lt;img src=&#34;/img/blog-img/how-to-build-such-a-website/steps2.png&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Once you create your project, you will find a bunch of files and folders in this directory. Don’t worry, since you will only care about the following three:&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;config.toml&lt;/code&gt;, which contains the global option of the current website.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;content&lt;/code&gt;, which stores all your materials, such as your CV and posts.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;static&lt;/code&gt;, which usually stores images and videos.&lt;br /&gt;
+Follow the instructions given by the theme to change options in &lt;code&gt;config.toml&lt;/code&gt; and add content in the sub-folder of &lt;code&gt;content&lt;/code&gt;. For example, you can create an Rmarkdown file in &lt;code&gt;content/post&lt;/code&gt; and save it when you finish. Different themes have different structures and formats. You need to figure out yourself where to add posts and the meaning of parameters.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34; style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Use the command &lt;code&gt;blogdown:::serve_site()&lt;/code&gt; to run your project. You will see the website in the “Viewer” window. You only need to run this command once and all changes after that will be automatically synchronized.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div id=&#34;change-the-theme&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;1.3&lt;/span&gt; Change the theme&lt;/h2&gt;
+&lt;p&gt;A theme, or called “Hugo theme”, is basically a template for building a website. Given a theme, what’s left is just adding your materials. Aside from the default theme, there are a lot of themes available &lt;a href=&#34;http://themes.gohugo.io&#34;&gt;here&lt;/a&gt; for different purposes.&lt;/p&gt;
+&lt;p&gt;To use a different theme, you need to find the GitHub repository for that theme and specify it when creating the website project. For example, I used the “Academic Theme”, whose GitHub repo is &lt;code&gt;gcushen/hugo-academic&lt;/code&gt;. In the GitHub repo page, a documentation file is usually given. Not all of those themes have the function you desire. In this case, just go for another one and read the documentation.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;publish-your-website&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;2&lt;/span&gt; Publish your website&lt;/h1&gt;
+&lt;p&gt;Once you finish building the website locally, it’s time to publish it.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First connect this R project to a GitHub repository. (See &lt;a href=&#34;https://happygitwithr.com/rstudio-git-GitHub.html&#34;&gt;here&lt;/a&gt; for how to do this.)&lt;/li&gt;
+&lt;li&gt;Go to &lt;a href=&#34;https://www.netlify.com/&#34;&gt;Netlify&lt;/a&gt;, which is a website for deploying your website. Login with you GitHub account and click “New site from Git”. Follow the instructions to deploy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/img/blog-img/how-to-build-such-a-website/sec3-1.png&#34; /&gt; Notice that in the last step, please make sure that the &lt;code&gt;HUGO_VERSION&lt;/code&gt; parameter has the correct value, which means you need to use the Hugo version described in the theme documentation. (The Academic theme requires version 0.42.)&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;/img/blog-img/how-to-build-such-a-website/sec3-2.png&#34; /&gt;
+
+&lt;/div&gt;
+&lt;p&gt;It takes a few minutes to deploy. Once finished, you will get a domain like &lt;code&gt;*.netfily.com&lt;/code&gt;, where &lt;code&gt;*&lt;/code&gt; is a random string. By visiting this address on a web browser, you will be able to see you website.&lt;/p&gt;
+&lt;p&gt;The benefit of connecting your website to you GitHub account is that, once you push a change, Netlify will catch that change in your GitHub repo and update your website automatically. This means you don’t need to deploy your website every time you make a change.&lt;/p&gt;
+&lt;p&gt;I only used Netlify for deployment, but there are also other tools available. Personally I think it’s simple and fast with Netlify.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;customize-your-domain&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;3&lt;/span&gt; Customize your domain&lt;/h1&gt;
+&lt;p&gt;Having a website with random domain is not satisfying. It would be great if the personal website has domain &lt;code&gt;yourname.com.&lt;/code&gt; For doing this, I bought such a domain on &lt;a href=&#34;https://www.namecheap.com/&#34;&gt;namecheap&lt;/a&gt;. It cost me $7.99 per year. (There are also others available.)&lt;/p&gt;
+&lt;p&gt;Then you connect your website with this domain. In your Netlify homepage, click “Domains” on the Navigation bar and the click “Add or register domain”.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;/img/blog-img/how-to-build-such-a-website/sec3-3.png&#34; /&gt;
+
+&lt;/div&gt;
+&lt;p&gt;Following the instructions, you will be provided some DNS, which is used to link you website and you domain. Then go back to &lt;a href=&#34;https://www.namecheap.com/&#34;&gt;namecheap&lt;/a&gt;, enter “Domain List” and click the “manage” button of your domain. Then in the “Nameserver” panel, type the DNS you got from Netlify and save the change.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;/img/blog-img/how-to-build-such-a-website/sec3-4.png&#34; /&gt;
+
+&lt;/div&gt;
+&lt;p&gt;Check an hour later by using the new domain, and you will see your website!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;resources-and-tools&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;4&lt;/span&gt; Resources and tools&lt;/h1&gt;
+&lt;p&gt;I learned most of the knowledge from the following webpages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;&lt;code&gt;blogdown&lt;/code&gt;: Creating Websites with R Markdown&lt;/a&gt; by Yihui Xie and Amber Thomas&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://proquestionasker.github.io/blog/Making_Site/&#34;&gt;Making a Website Using &lt;code&gt;blogdown&lt;/code&gt;, Hugo, and GitHub pages&lt;/a&gt; also by Amber Thomas&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.znmeb.mobi/2017/05/12/getting-started-with-blogdown/&#34;&gt;Getting Started with &lt;code&gt;blogdown&lt;/code&gt;&lt;/a&gt; by M. Edward (Ed) Borasky&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also find some tools that are helpful to maintain a website;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://analytics.google.com/analytics/web/&#34;&gt;Google Analytics&lt;/a&gt;, which is used to track visits to your website.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thank you for reading!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>/blog/template/</link>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/template/</guid>
+      <description>
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;R Markdown&lt;/h2&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;When you click the &lt;strong&gt;Knit&lt;/strong&gt; button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;including-plots&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Including Plots&lt;/h2&gt;
+&lt;p&gt;You can also embed plots, for example:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/blog/template_files/figure-html/pressure-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Note that the &lt;code&gt;echo = FALSE&lt;/code&gt; parameter was added to the code chunk to prevent printing of the R code that generated the plot.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;formula&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Formula&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[ a + b  = c\]&lt;/span&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Example Page</title>
-      <link>/infallible-jennings-0fe40d.netlify.com/tutorial/example/</link>
+      <link>/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>/infallible-jennings-0fe40d.netlify.com/tutorial/example/</guid>
+      <guid>/tutorial/example/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -32,47 +183,47 @@
     
     <item>
       <title>Privacy Policy</title>
-      <link>/infallible-jennings-0fe40d.netlify.com/privacy/</link>
+      <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/infallible-jennings-0fe40d.netlify.com/privacy/</guid>
+      <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Analysis of Covariance (ANCOVA) in Randomized Trials</title>
-      <link>/infallible-jennings-0fe40d.netlify.com/publication/ancova/</link>
-      <pubDate>Thu, 18 Jan 2018 00:00:00 -0400</pubDate>
+      <link>/publication/ancova/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 -0400</pubDate>
       
-      <guid>/infallible-jennings-0fe40d.netlify.com/publication/ancova/</guid>
+      <guid>/publication/ancova/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bias in Neuroradiology Peer Review: Impact of a “Ding” on “Dinging” Others</title>
-      <link>/infallible-jennings-0fe40d.netlify.com/publication/ajnr/</link>
-      <pubDate>Thu, 18 Jan 2018 00:00:00 -0400</pubDate>
+      <link>/publication/ajnr/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 -0400</pubDate>
       
-      <guid>/infallible-jennings-0fe40d.netlify.com/publication/ajnr/</guid>
+      <guid>/publication/ajnr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Covariate Assisted Principal Regression for Covariance Matrix Outcomes</title>
-      <link>/infallible-jennings-0fe40d.netlify.com/publication/cov-reg/</link>
-      <pubDate>Thu, 18 Jan 2018 00:00:00 -0400</pubDate>
+      <link>/publication/cov-reg/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 -0400</pubDate>
       
-      <guid>/infallible-jennings-0fe40d.netlify.com/publication/cov-reg/</guid>
+      <guid>/publication/cov-reg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>/infallible-jennings-0fe40d.netlify.com/talk/example/</link>
+      <link>/talk/example/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>/infallible-jennings-0fe40d.netlify.com/talk/example/</guid>
+      <guid>/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
@@ -94,21 +245,11 @@
     </item>
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/infallible-jennings-0fe40d.netlify.com/publication/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
-      
-      <guid>/infallible-jennings-0fe40d.netlify.com/publication/person-re-id/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Slides</title>
-      <link>/infallible-jennings-0fe40d.netlify.com/slides/example-slides/</link>
+      <link>/slides/example-slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/infallible-jennings-0fe40d.netlify.com/slides/example-slides/</guid>
+      <guid>/slides/example-slides/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
