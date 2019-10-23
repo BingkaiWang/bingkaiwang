@@ -5,7 +5,7 @@ authors:
 - '*Bingkai Wang*'
 - Elizabeth Ogburn
 - Michael Rosenblum
-date: "2018-01-17T00:00:00-04:00"
+date: "2019-04-20T00:00:00-04:00"
 doi: ""
 draft: false
 image:
@@ -13,17 +13,17 @@ image:
   focal_point: ""
 math: true
 projects: []
-publication: ''
+publication: 'Biometrics'
 publication_short: ''
 publication_types:
-- "3"
+- "2"
 selected: false
 slides: ''
 tags: []
 title: Analysis of Covariance (ANCOVA) in Randomized Trials
 url_code: https://github.com/BingkaiWang/CovariateAdjustment
 url_dataset: ''
-url_pdf: https://biostats.bepress.com/jhubiostat/paper292/
+url_pdf: https://doi.org/10.1111/biom.13062
 url_poster: ''
 url_preprint: ''
 url_project: ""

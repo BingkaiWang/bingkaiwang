@@ -7,7 +7,7 @@ authors:
 - Stewart Mostofsky
 - Brian Caffo
 - Xi Luo
-date: "2018-01-17T00:00:00-04:00"
+date: "2018-11-17T00:00:00-04:00"
 doi: ""
 draft: false
 image:
@@ -25,7 +25,7 @@ tags: []
 title: Covariate Assisted Principal Regression for Covariance Matrix Outcomes
 url_code: ''
 url_dataset: ''
-url_pdf: https://www.biorxiv.org/content/early/2018/09/23/425033
+url_pdf: https://www.biorxiv.org/content/10.1101/425033v1.abstract
 url_poster: ''
 url_preprint: ''
 url_project: ""

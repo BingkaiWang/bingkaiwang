@@ -7,13 +7,15 @@ weight: 60
 widget: custom
 ---
 ### Presentations
-- Benefits of adjustment for baseline variables in randomized trials. **JSM**, Baltimore, USA, July 2017.
+- Clarifying How Adjustment for Prognostic Baseline Variables Leads to More Precision and Less Bias in Randomized Trials. **JSM**, Denver, USA, July 2019.
 - Clarifying How Adjustment for Prognostic Baseline Variables Leads to More Precision and Less Bias in Randomized Trials. **ENAR**, Atlanta, USA, March 2018.
-
+- Benefits of adjustment for baseline variables in randomized trials. **JSM**, Baltimore, USA, July 2017.
 
 
 ### Teaching
-- Teaching Assistant and Guest Lecturer, Statistical Theory I-IV, 2017-2018
+- Teaching Assistant, Statistical Methods in Public Health, 2018-present
 - Teaching Assistant and Guest Lecturer, Advanced Data Science I-II, 2018
+- Teaching Assistant and Guest Lecturer, Statistical Theory I-IV, 2017-2018
+
 
 
