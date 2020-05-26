@@ -6,17 +6,17 @@ experience:
   company_url: ""
   date_end: ""
   date_start: "2016-09-01"
-  description: "  Work in causal inference group, study baseline variable adjustment in randomized clinical trials.\n \n
-  Work in high dimensional graphics group, build and test statistical model on fMRI data. \n  "
+  description: " I work in the causal inference group focusing on covariate adjustment in randomized clinical trials.\n \n
+  I also have some work on building statistical model for fMRI data analysis. \n  "
   location: Maryland
-  title: Research Assistant
+  title: PhD student
 - company: Novartis, Statistical Methodolgy & Consulting Group
   company_url: ""
   date_end: "2018-08-17"
   date_start: "2018-05-29"
-  description: Work on improving existing statistical methods for covariate adjustment.
+  description: My intern project focused on improving existing statistical methods for covariate adjustment. During the internship, I introduced the G-computation/standardization approach to the group and helped the analysis for repeated-measured outcomes.
   location: New Jersy
-  title: Summer Internship at 
+  title: Summer Internship
 subtitle: ""
 title: Experiences
 weight: 8
