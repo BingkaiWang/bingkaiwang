@@ -2,11 +2,11 @@
 abstract: "We consider the problem of jointly modeling multiple covariance matrices by partial common principal component analysis (PCPCA), which assumes a proportion of eigenvectors to be shared across covariance matrices and the rest to be individual specific. This paper proposes consistent estimators of shared eigenvectors (called CPCs) in PCPCA as the number of matrices or the number of samples to estimate each matrix goes to infinity. We prove such asymptotic results without making any assumptions on the ranks of the CPC-related eigenvalues. When the number of samples goes to infinity, our result does not require the data to be Gaussian distributed. Furthermore, this paper introduces a sequential testing procedure to identify the number of shared eigenvectors in PCPCA. In simulation studies, our method shows higher accuracy in estimating CPCs than competing methods. Applied to a motor-task functional magnetic resonance imaging data set, our estimator identifies meaningful brain networks that are consistent with current scientific understandings."
 abstract_short: ""
 authors:
-- '*Bingkai Wang*'
+- '__Bingkai Wang__'
 - Xi Luo
 - Yi Zhao
 - Brian Caffo
-date: "2019-10-17T00:00:00-04:00"
+date: "2020-09-01T00:00:00-04:00"
 doi: ""
 draft: false
 image:
@@ -14,7 +14,7 @@ image:
   focal_point: ""
 math: true
 projects: []
-publication: ''
+publication: 'Biometrics (In press)'
 publication_short: ''
 publication_types:
 - "3"

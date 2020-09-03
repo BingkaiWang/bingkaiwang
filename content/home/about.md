@@ -11,7 +11,7 @@ education:
     year: 2012-2016
 interests:
   interests:
-  - Causal inference / Semiparametric thoery
+  - Causal inference / Semiparametric theory
   - Covariate adjustment in clinical trials
   - Machine Learning
 weight: 5
@@ -20,4 +20,4 @@ widget: about
 
 # Biography
 
-Bingkai Wang is a Ph.D student of Biostatistics in Johns Hopkins Bloomberg School of Public Health. Under the advisory of Prof. Michael Rosenblum and Prof. Brian Caffo, his research interests include causal inference, covariate adjustment in randomized clinical trials, fMRI data analysis and machine learning thoery. 
+Bingkai Wang is a Ph.D student of Biostatistics in Johns Hopkins Bloomberg School of Public Health. Under the advisory of Prof. Michael Rosenblum and Prof. Brian Caffo, his research interests include causal inference, covariate adjustment in randomized clinical trials, fMRI data analysis and machine learning theory. 

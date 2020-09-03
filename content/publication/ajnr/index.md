@@ -4,7 +4,7 @@ CONCLUSIONS: The receipt of a clinically not significant discrepant report leads
 abstract_short: ""
 authors:
 - Paniz Charkhchi
-- '*Bingkai Wang*'
+- '__Bingkai Wang__'
 - Brian Caffo
 - David Yousem
 date: "2018-01-17T00:00:00-04:00"
@@ -15,7 +15,7 @@ image:
   focal_point: ""
 math: true
 projects: []
-publication: ''
+publication: 'American Journal of Neuroradiology'
 publication_short: ''
 publication_types:
 - "2"
