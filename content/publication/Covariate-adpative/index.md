@@ -29,7 +29,7 @@ url_pdf: https://arxiv.org/abs/1910.13954
 url_poster: ''
 url_preprint: ''
 url_project: ""
-url_slides: 'files/ENAR2020-presentation.pdf'
+url_slides: 'files/covariate-adaptive-slides.pdf'
 url_source: ''
 url_video: ''
 ---
