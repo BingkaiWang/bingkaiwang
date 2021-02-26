@@ -11,6 +11,7 @@ Bingkai Wang is a Ph.D student of Biostatistics in Johns Hopkins Bloomberg Schoo
 
 ## News
 
+- [Feb 2021] I win the second place in the ASA Biopharmaceutical Section's student paper competition for the paper: Model-Robust Inference for Clinical Trials that Improve Precision by Stratified Randomization and Adjustment for Additional Baseline Variables. [[link](https://arxiv.org/abs/1910.13954)] 
 - [Feb 2021] I successfully defend my thesis titled "Statistical Methods for Analyzing RandomizedTrials and Brain Imaging Data". [[Slides](files/defense-slides.pdf)]
 - [Dec 2020] I win the ENAR 2021 distinguished student paper award.
 - [Oct 2020] I will join Prof. [Dylan Small](https://statistics.wharton.upenn.edu/profile/dsmall/)'s group as a postdoctoral researcher in April 2021.
