@@ -7,7 +7,11 @@ widget: about
 
 ## Biography
 
-Bingkai Wang is a Ph.D student of Biostatistics in Johns Hopkins Bloomberg School of Public Health. Under the advisory of Prof. Michael Rosenblum and Prof. Brian Caffo, his research interests include causal inference, covariate adjustment in randomized clinical trials, fMRI data analysis and machine learning theory. 
+I am a postdoctoral fellow in the Statistics Department of the Wharton School, University of Pennsylvania (advised by [Dylan Small](https://statistics.wharton.upenn.edu/profile/dsmall/) and [Nicholas P. Jewell](https://statistics.berkeley.edu/people/nicholas-p-jewell)).
+
+I got my PhD degree from the Biostatistics department in Johns Hopkins Bloomberg School of Public Health (advised by [Michael Rosenblum](https://www.jhsph.edu/faculty/directory/profile/2241/michael-a-rosenblum) and [Brian Caffo](https://www.jhsph.edu/faculty/directory/profile/1010/brian-s-caffo)).
+
+My research interests are in causal inference, randomized clinical trials, and precision medicine. 
 
 ## News
 
