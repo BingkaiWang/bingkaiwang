@@ -15,6 +15,7 @@ My research interests are in causal inference, randomized clinical trials, and p
 
 ## News
 
+- [Mar 2021] I am elected to membership of the Phi Beta Kappa Society 
 - [Feb 2021] I win the second place in the ASA Biopharmaceutical Section's student paper competition for the paper: Model-Robust Inference for Clinical Trials that Improve Precision by Stratified Randomization and Adjustment for Additional Baseline Variables. [[link](https://arxiv.org/abs/1910.13954)] 
 - [Feb 2021] I successfully defend my thesis titled "Statistical Methods for Analyzing RandomizedTrials and Brain Imaging Data". [[Slides](files/defense-slides.pdf)]
 - [Dec 2020] I win the ENAR 2021 distinguished student paper award.
