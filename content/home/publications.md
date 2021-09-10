@@ -40,7 +40,7 @@ exclude_selected = false
 
 ### Causal inference for randomized clincial trials
 
-- **Bingkai Wang**, Ryoko Susukida, Ramin Mojtabai, Masoumeh Amin-Esmaeili, and Michael Rosenblum. "[Model-robust inference for clinical trials that improve precision by stratified randomization and covariate adjustment.](https://arxiv.org/abs/1910.13954)" *arXiv* (2019).
+- **Bingkai Wang**, Ryoko Susukida, Ramin Mojtabai, Masoumeh Amin-Esmaeili, and Michael Rosenblum. (In press) "[Model-robust inference for clinical trials that improve precision by stratified randomization and covariate adjustment.](https://arxiv.org/abs/1910.13954)" *Journal of the American Statistical Association, Theory and Methods Section*. (2019).
 - **Bingkai Wang**, Elizabeth L. Ogburn, and Michael Rosenblum. "[Analysis of covariance in randomized trials: More precision and valid confidence intervals, without model assumptions.](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13062)" *Biometrics* 75, no. 4 (2019): 1391-1400.
 
 
