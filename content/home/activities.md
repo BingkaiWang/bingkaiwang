@@ -8,7 +8,7 @@ widget: custom
 ---
 
 ### Awards
-- Second best student paper, American Statistical Association (ASA) Biopharmaceutical Section, 2021.
+- Best student paper runner up, American Statistical Association (ASA) Biopharmaceutical Section, 2021.
 - Margaret Merrell Award (awarded to one doctoral student per year for outstanding research),  Department of Biostatistics, Johns Hopkins University, 2021.
 - Distinguished student paper award, Eastern North American Region (ENAR) International Biometric Society, 2021.
 - Student paper award, the Statistical Meeting in Imaging, 2020.
