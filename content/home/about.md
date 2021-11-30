@@ -17,7 +17,7 @@ My CV is available [[here](files/CV.pdf)].
 
 ## News
 
-- [Oct 2021] Check out our new manuscript "[Robustly leveraging the post-randomization information to improve precision in the analyses of randomized clinical trials.](https://arxiv.org/abs/2110.09645)"!
+- [Oct 2021] Check out our new manuscript "[Robustly leveraging the post-randomization information to improve precision in the analyses of randomized clinical trials.](https://arxiv.org/abs/2110.09645)".
 - [Sept 2021] My paper "Model-Robust Inference for Clinical Trials that Improve Precision by Stratified Randomization and Covariate Adjustment"  is accepted for publication at Journal of American Statistical Association, Theory and Method Section. Big thanks to Michael and my collaborators!
 - [Sept 2021] I give an invited talk at the Novartis Statistics Seminar. [[Slides](files/novartis-talk.pptx)]
 - [Mar 2021] I am elected to membership of the Phi Beta Kappa Society.
