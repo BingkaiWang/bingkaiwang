@@ -13,6 +13,7 @@ widget: custom
 - Distinguished student paper award, Eastern North American Region (ENAR) International Biometric Society, 2021.
 - Student paper award, the Statistical Meeting in Imaging, 2020.
 - Center of Excellence in Regulatory Science and Innovation (CERSI) Scholarship, U.S. Food and Drug Administration and Johns Hopkins University, 2017-2021.
+- National Scholarship for undergraduate students, 2014-2015.
 
 
 ### Invited talks
