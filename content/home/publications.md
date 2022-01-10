@@ -48,6 +48,6 @@ cluster-randomized trials](https://arxiv.org/abs/2112.00832)"  *arXiv* (2021).
 
 
 ### Statistical methods for brain imaging
-- **Bingkai Wang**, Brian S. Caffo, Xi Luo, Chin-Fu Liu, Andreia V. Faria, Michael I. Miller, and Yi Zhao. "[Regularized regression on compositional trees with application to MRI analysis.](https://arxiv.org/abs/2104.07113)" *arXiv* (2021).
+- **Bingkai Wang**, Brian S. Caffo, Xi Luo, Chin-Fu Liu, Andreia V. Faria, Michael I. Miller, and Yi Zhao. "[Regularized regression on compositional trees with application to MRI analysis.](https://arxiv.org/abs/2104.07113)" *Journal of the Royal Statistical Society: Series C (Applied Statistics) * (2022).
 - **Bingkai Wang**, Xi Luo, Yi Zhao, and Brian Caffo. "[Semiparametric partial common principal component analysis for covariance matrices.](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13369)" *Biometrics* (2020).
 
