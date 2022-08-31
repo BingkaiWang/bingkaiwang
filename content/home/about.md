@@ -14,3 +14,5 @@ I got my PhD degree from the Biostatistics department at Johns Hopkins Bloomberg
 My research interests are in causal inference, randomized clinical trials, and precision medicine. 
 
 My CV is available [here](files/CV.pdf).
+
+[News] My K99/R00 application was scored 10 (the best score) in the peer-review phase!

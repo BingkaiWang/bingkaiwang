@@ -1,0 +1,113 @@
+---
+title: "How I got a perfect score in K99 application as a non-native writer"
+author: "Bingkai Wang"
+date: "2022-08-08"
+categories:
+  - R
+summary: "Experience sharing on preparing K99"
+output:
+  blogdown::html_page:
+    toc: true
+    number_sections: true
+    toc_depth: 1
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# My experience and timeline
+
+In June 2022, my K99 application titled "improving the design and statistical analysis for cluster-randomized trials on tropical infectious diseases" to NIAID received an __impact score of 10__ (the perfect score). While it is well acknowledged that luck plays an essential role in the score, I would like to share my experience and write down my thoughts, which can benefit future applicants, especially non-native postdocs like me.
+
+For most, I would like to sincerely thank my mentoring team Drs. Dylan Small, Nicholas Jewell, Wendy Prudhomme-O'Meara, Fan Li, my advisory committee Drs. Michael Harhay, Elizabeth Halloran, Elizabeth Turner, and reference letters from Drs. Brian Caffo, Michael Rosenblum, Elizabeth Ogburn, Yi Zhao, for their help and guidance. Particularly, I am sincerely grateful to 
+
+* Drs. __Michael Harhay__ and __Fan Li__, who enthusiastically helped me throughout the application, 
+* Monica Fread, Steven Fala, Carol Reich, the departmental grant team for their administrative and writing help,
+* Drs. Yi Zhao, Xi Luo, Wenpin Hou, Haoyu Zhang, Youjin Lee, who provided valuable suggestions on grant preparation,
+* Dr. Dylan Small, my postdoc primary mentor, for his persistent supportiveness.
+
+
+Below is the timeline of my application:
+
+* __April 2021__ In the first month of my postdoc, I first learned about the opportunity of the K99 grant.
+
+* __September 2021__ I started to chat with people about whether to apply for K99 and how to prepare. 
+
+* __October 2021__ I began teaming up with mentors and brainstorming research aims and mentoring plans. 
+
+* __December 8th 2021__ I started full-time preparation.
+
+* __January 30th 2022__ Writing finished.
+
+* __February 10th 2022__ Application submitted (due Feb 14th).
+
+* __June 21th 2022__ Impact score (10) received.
+
+* __July 28th 2022__ Summary statement received.
+
+# Four things before I start
+
+## Plan early on target NIH institute, research aims, and mentoring team.
+
+As you can count from my thank note above, my K99 application involves 11 professors. To invite such a great number of people, I started thinking of who to invite 5 months before the due date. One prerequisite is the goal of this proposal:  What is my career goal? What is my research interest in 5 years? In which area can I have the most chance? Answering these questions takes a long time for me. In the end, I chose infectious disease, an exciting domain that attracts increasing attention these days and where I have written articles. Then I wrote a specific-aim page, and sent it to potential mentors. In a few rounds, I finalized the mentoring team and its responsibilities. The advisory team were formed later in December, and the reference letters are all from my PhD advisers and collaborators. 
+
+You may ask: where can I find so many professors willing to help me? My short answer is to "ask". Ask your mentor and collaborators who they know can be a good fit. Once you talk to their recommended people, ask again whether they know anyone willing to help. So on and so forth. Most people are nice, and very likely you won't receive many no's if the request is reasonable. However, when asking, please be polite and specific: e.g., the number and duration of meetings you need, the topic to discuss, and their responsibility. Don't make vague requests. 
+
+## Reach out for advice and successful K99 applications.
+
+I talked to many successful and unsuccessful K99 applicants before I started. Their advice covers many aspects of K99 application, which are very helpful to me and saved me a lot of time. Mainly, successful K99 applications are the most important references for writing. I learned a lot from their overall structure to tell the story, layout of tables and figures, narrative of the career development plan, writing style adapted for different sections, and wording of things in a much more fancy way.
+
+I strongly recommend asking for as many K99 applications as possible. In addition, many K99 blogs are very good and provide very detailed instructions on how to prepare. 
+
+## Collect evidence that you are excellent.
+
+I realized that K99 is different from R01 in that the research record of the applicant has a  more significant weight. Hence, I tried my best to imrpove my CV: get old manuscripts published, write more manuscripts during postdoc, apply for all kinds of awards, give talks, organize sessions, etc. I believe that evidence of achievement is much more persuasive than complimentary sentences. In addition, I heard that K99 implicitly requires at least one first-authored manuscript during postdoc as evidence of productivity; so I wrote three before the due date.
+
+## If possible, attend a grant writing seminar and get the handbook. 
+
+One extremely useful thing for writing is the handbook disseminated in a grant writing seminar. I don't think the handbook has an electronic version, but the seminar is provided regularly in many universities. I attended it at both Johns Hopkins University and Penn, taught by different instructors with roughly the same content. The seminar walks the audience through all sections of grant writing and provides proven templates for writing. Although the seminar is mainly for R grants, most of the content works for K grants as well. The handbook is the written version of the seminar, and I read it every night when I worked on the writing.
+
+# Four suggestions for writing
+
+## Read the guidance carefully.
+
+This is the part I didn't do well during the application, which caused me to find unwritten or wrongly-written materials several times near the due date. NIH has a 163-page "CAREER DEVELOPMENT INSTRUCTIONS FOR NIH AND OTHER PHS AGENCIES", which I ignored at the beginning and later realized is vital, especially on the updated format and content requirement.
+
+## Create a writing schedule and stick with it.
+
+Once you list everything you need to write, create a writing schedule since there are tons of things to write. Those things include summary, biosketch, narrative, career development plan, specific aims, research plan, mentoring plan, RCR training plan, budget justification, etc. A writing schedule can help you keep track of your progress and evaluate the workload. 
+
+## Be thoughtful in training and mentoring plans.
+
+Training and mentoring plans are important scoring aspects. Besides apparent things such as courses and meetings, think deeper about how to improve yourself. In my career development plan, I wrote courses in epidemiology, summer institutes, one-on-one regular meeting with mentors, trip to Kenya for clinical experience, manuscripts preparation, writing courses, RCR training, seminars, etc. Likewise, for mentoring plans, one could be specific on training and how to evaluate the progress.
+
+## Ask for feedback.
+
+Asking for feedback is probably the most common advice I have seen on grant writing. Indeed it can improve the proposal substantially. The only thing I'd like to add is to have someone carefully read the whole proposal and score it honestly like a major reviewer if possible. 
+
+# For non-native postdocs
+
+I highly recommend non-native writers to try K99 if you aim for a tenure-track position that requires grants in the US. First, the reward is high. Most people I know with a K99 grant can easily find an academic job and have protected research time in the first few years. In addition, K99 is the only grant an international postdoc can apply. Second, the chance is high compared to R grants. Usually, the funding rate is 20% for K99, while it's about 14% for R01 grants for young investigators; the R00 grant, the second phase of K99, is also regarded as an R01 equivalence.  Third, it is a valuable, mentored experience to improve writing. Even if it is not funded, the materials you wrote can be reused for job searching, the ideas you have can be applied, and the person you connect during the process can be valuable. All of them only take two months, roughly the time length of half a paper.
+
+
+## Learn the grant writing style.
+
+Probably the hardest part for non-native postdocs is writing. Since we write in a second language, we can easily be imprecise, repetitive, or dull. There are many ways to improve your overall writing skills, but most effective ways require time. Grant writing, fortunately, have some shortcuts you can take since it has a specific writing style. As I mentioned above, you can use the handbook of grant writing or read successful grants to learn this style and wording. For many materials, the format is fixed, each paragraph has its own purpose, and what you need to do is to fill in phrases you just learned. In addition, some writing software, such as Grammarly, are also helpful.
+
+## Use tables and figures.
+
+Without master-level writing skills, you can still write well using tables and figures. My career development plan has 4 pages, two of which only have tables. The first table describes my 4 career development goals with milestones. The second table introduces the mentoring team, with name, position, meeting frequency, and contribution to the mentorship. The third table shows the detailed time allocation for different tasks across years. The last table lists my training activities and their related career goals. In this way, not only the plan looks clear, the writing duty is substantially reduced. The same strategy can be also applied to  the research plan and mentoring plan. 
+
+## Identity issue. 
+
+If you are an international postdoc like me, be clear about the time span of a K99. I am using OPT and OPT extension for postdoc, which adds up to 3 years. Since I want to finish the one-year K99 training during my OPT extension, I have to start K99, if funded, at the end of my second year; since K99 requires roughly 12 months from submission to start, I need to submit at the beginning of my second year of postdoc. This calculation differs from person to person, while it is a thing that can cause unnecessary complexity.
+
+
+***
+
+Finally, for the question "How I got a perfect score in K99 application as a non-native writer", my answer is "a lucky postdoc mentored by established, passionate professors guided by well-designed, mindful training plans with realistic, solid research aims written in a clear, nice way." 
+
+Hope you find this article helpful.
+
