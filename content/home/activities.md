@@ -21,8 +21,8 @@ widget: custom
 
 
 ### Invited Commentary Articles
-- **Bingkai Wang**, Ryoko Susukida, Ramin Mojtabai, Masoumeh Amin-Esmaeili, Michael Rosenblum. [Comment: Inference after covariate-adaptive randomisation: aspects of methodology and theory.](https://doi.org/10.1080/24754269.2021.1905591) *Statistical Theory and Related Fields* (2021). 
-- Michael Rosenblum and **Bingkai Wang**. "[The Critical Role of Statistical Analyses in Maximizing Power Gains From Covariate-Adaptive Trial Designs.](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2730462)" *JAMA network open* 2, no. 4 (2019): e190789-e190789.
+- **Bingkai Wang**, Ryoko Susukida, Ramin Mojtabai, Masoumeh Amin-Esmaeili, Michael Rosenblum. (2021).  [Comment: Inference after covariate-adaptive randomisation: aspects of methodology and theory.](https://doi.org/10.1080/24754269.2021.1905591) *Statistical Theory and Related Fields*.
+- Michael Rosenblum and **Bingkai Wang**. (2019) "[The Critical Role of Statistical Analyses in Maximizing Power Gains From Covariate-Adaptive Trial Designs.](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2730462)" *JAMA network open* 2(4): e190789-e190789.
 
 ### Invited talks
 - Randomization Inference for Cluster-Randomized Test-Negative Designs with Application to Dengue Studies, *Scientific meeting of the World Mosquito Program*, February 2022.

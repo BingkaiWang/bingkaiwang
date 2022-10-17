@@ -12,6 +12,7 @@ output:
     toc_depth: 1
 ---
 
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
 
 <div id="TOC">
 <ul>
@@ -38,9 +39,9 @@ output:
 <li>With GitHub, once you push a change, it will show on the webpage immediately.</li>
 </ul>
 <p>In this article, I will give an overview on how to construct a website using <code>Blogdown</code>. A detailed and well-written tutorial of <code>Blogdown</code> can be found <a href="https://bookdown.org/yihui/blogdown/">here</a>.</p>
-<div id="build-your-website-using-blogdown" class="section level1">
+<div id="build-your-website-using-blogdown" class="section level1" number="1">
 <h1><span class="header-section-number">1</span> Build your website using Blogdown</h1>
-<div id="prerequistes" class="section level2">
+<div id="prerequistes" class="section level2" number="1.1">
 <h2><span class="header-section-number">1.1</span> Prerequistes</h2>
 <p>To use the R package <code>Blogdown</code>, here is some knowledge you need to know:</p>
 <ul>
@@ -50,11 +51,13 @@ output:
 </ul>
 <p>If you are familiar with all of above, then you are ready to start!</p>
 </div>
-<div id="steps-to-build-a-website" class="section level2">
+<div id="steps-to-build-a-website" class="section level2" number="1.2">
 <h2><span class="header-section-number">1.2</span> Steps to build a website</h2>
 <ol style="list-style-type: decimal">
-<li><p>Open Rstudio and install required packages by <code>install.packages(&quot;blogdown&quot;)</code> and <code>blogdown::install_hugo()</code>.</p></li>
-<li><p>Make sure your Rstudio version is at least v1.1.383. Then create a website project from the menu <code>File -&gt; New Project -&gt; New Directory</code>. In the next step, select <code>Website using blogdown</code>. In the next step, choose the directory, give a directory name and click “Create Project”. (Notice that the default theme is “hugo-lithium”.How to use others themes is introduced in the next section.) <img src="/img/blog-img/how-to-build-such-a-website/steps1.png" /> <img src="/img/blog-img/how-to-build-such-a-website/steps2.png" /></p></li>
+<li><p>Open Rstudio and install required packages by <code>install.packages("blogdown")</code> and <code>blogdown::install_hugo()</code>.</p></li>
+<li><p>Make sure your Rstudio version is at least v1.1.383. Then create a website project from the menu <code>File -&gt; New Project -&gt; New Directory</code>. In the next step, select <code>Website using blogdown</code>. In the next step, choose the directory, give a directory name and click “Create Project”. (Notice that the default theme is “hugo-lithium”.How to use others themes is introduced in the next section.)
+<img src="/img/blog-img/how-to-build-such-a-website/steps1.png" />
+<img src="/img/blog-img/how-to-build-such-a-website/steps2.png" /></p></li>
 <li><p>Once you create your project, you will find a bunch of files and folders in this directory. Don’t worry, since you will only care about the following three:</p></li>
 </ol>
 <ul>
@@ -67,44 +70,36 @@ Follow the instructions given by the theme to change options in <code>config.tom
 <li>Use the command <code>blogdown:::serve_site()</code> to run your project. You will see the website in the “Viewer” window. You only need to run this command once and all changes after that will be automatically synchronized.</li>
 </ol>
 </div>
-<div id="change-the-theme" class="section level2">
+<div id="change-the-theme" class="section level2" number="1.3">
 <h2><span class="header-section-number">1.3</span> Change the theme</h2>
 <p>A theme, or called “Hugo theme”, is basically a template for building a website. Given a theme, what’s left is just adding your materials. Aside from the default theme, there are a lot of themes available <a href="http://themes.gohugo.io">here</a> for different purposes.</p>
 <p>To use a different theme, you need to find the GitHub repository for that theme and specify it when creating the website project. For example, I used the “Academic Theme”, whose GitHub repo is <code>gcushen/hugo-academic</code>. In the GitHub repo page, a documentation file is usually given. Not all of those themes have the function you desire. In this case, just go for another one and read the documentation.</p>
 </div>
 </div>
-<div id="publish-your-website" class="section level1">
+<div id="publish-your-website" class="section level1" number="2">
 <h1><span class="header-section-number">2</span> Publish your website</h1>
 <p>Once you finish building the website locally, it’s time to publish it.</p>
 <ul>
 <li>First connect this R project to a GitHub repository. (See <a href="https://happygitwithr.com/rstudio-git-GitHub.html">here</a> for how to do this.)</li>
 <li>Go to <a href="https://www.netlify.com/">Netlify</a>, which is a website for deploying your website. Login with you GitHub account and click “New site from Git”. Follow the instructions to deploy.</li>
 </ul>
-<p><img src="/img/blog-img/how-to-build-such-a-website/sec3-1.png" /> Notice that in the last step, please make sure that the <code>HUGO_VERSION</code> parameter has the correct value, which means you need to use the Hugo version described in the theme documentation. (The Academic theme requires version 0.42.)</p>
-<div class="figure">
-<img src="/img/blog-img/how-to-build-such-a-website/sec3-2.png" />
-
-</div>
+<p><img src="/img/blog-img/how-to-build-such-a-website/sec3-1.png" />
+Notice that in the last step, please make sure that the <code>HUGO_VERSION</code> parameter has the correct value, which means you need to use the Hugo version described in the theme documentation. (The Academic theme requires version 0.42.)</p>
+<p><img src="/img/blog-img/how-to-build-such-a-website/sec3-2.png" /></p>
 <p>It takes a few minutes to deploy. Once finished, you will get a domain like <code>*.netfily.com</code>, where <code>*</code> is a random string. By visiting this address on a web browser, you will be able to see you website.</p>
 <p>The benefit of connecting your website to you GitHub account is that, once you push a change, Netlify will catch that change in your GitHub repo and update your website automatically. This means you don’t need to deploy your website every time you make a change.</p>
 <p>I only used Netlify for deployment, but there are also other tools available. Personally I think it’s simple and fast with Netlify.</p>
 </div>
-<div id="customize-your-domain" class="section level1">
+<div id="customize-your-domain" class="section level1" number="3">
 <h1><span class="header-section-number">3</span> Customize your domain</h1>
 <p>Having a website with random domain is not satisfying. It would be great if the personal website has domain <code>yourname.com.</code> For doing this, I bought such a domain on <a href="https://www.namecheap.com/">namecheap</a>. It cost me $7.99 per year. (There are also others available.)</p>
 <p>Then you connect your website with this domain. In your Netlify homepage, click “Domains” on the Navigation bar and the click “Add or register domain”.</p>
-<div class="figure">
-<img src="/img/blog-img/how-to-build-such-a-website/sec3-3.png" />
-
-</div>
+<p><img src="/img/blog-img/how-to-build-such-a-website/sec3-3.png" /></p>
 <p>Following the instructions, you will be provided some DNS, which is used to link you website and you domain. Then go back to <a href="https://www.namecheap.com/">namecheap</a>, enter “Domain List” and click the “manage” button of your domain. Then in the “Nameserver” panel, type the DNS you got from Netlify and save the change.</p>
-<div class="figure">
-<img src="/img/blog-img/how-to-build-such-a-website/sec3-4.png" />
-
-</div>
+<p><img src="/img/blog-img/how-to-build-such-a-website/sec3-4.png" /></p>
 <p>Check an hour later by using the new domain, and you will see your website!</p>
 </div>
-<div id="resources-and-tools" class="section level1">
+<div id="resources-and-tools" class="section level1" number="4">
 <h1><span class="header-section-number">4</span> Resources and tools</h1>
 <p>I learned most of the knowledge from the following webpages:</p>
 <ul>
