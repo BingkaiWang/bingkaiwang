@@ -25,6 +25,7 @@ widget: custom
 - Michael Rosenblum and **Bingkai Wang**. (2019) "[The Critical Role of Statistical Analyses in Maximizing Power Gains From Covariate-Adaptive Trial Designs.](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2730462)" *JAMA network open* 2(4): e190789-e190789.
 
 ### Invited talks
+- Model-robust and efficient inference for cluster-randomized experiments, *Society for Clinical Trials Annual Meeting*, May 2023.
 - Randomization Inference for Cluster-Randomized Test-Negative Designs with Application to Dengue Studies, *Scientific meeting of the World Mosquito Program*, February 2022.
 - Model-Robust Inference for Clinical Trials that Improve Precision by Stratified Randomization and Adjustment for Additional Baseline Variables.
   - *ICSA Applied Statistics Symposium*, September 2021

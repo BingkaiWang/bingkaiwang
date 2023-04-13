@@ -15,6 +15,6 @@ My research interests are in causal inference, randomized clinical trials, clust
 
 My CV is available [here](files/CV.pdf).
 
-__[News]__ I will join the [Biostatistics department at the University of Michigan, Ann Arbor](https://sph.umich.edu/biostat/) as a tenure-track assistant professor. (My experience is shared in my blog [here](/blog/job-search/).)
+__[News]__ I will join the [Biostatistics department at the University of Michigan, Ann Arbor](https://sph.umich.edu/biostat/) as a tenure-track assistant professor! (My job search experience is shared in my blog [here](/blog/job-search/).)
 
 __[News]__ My K99/R00 application was scored 10 (the best score) in the peer-review phase at NIAID! (My experience is shared in my blog [here](/blog/k99/).)
