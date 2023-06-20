@@ -15,6 +15,9 @@ My research interests are in causal inference, randomized clinical trials, clust
 
 My CV is available [here](files/CV.pdf).
 
-__[News]__ I will join the [Biostatistics department at the University of Michigan, Ann Arbor](https://sph.umich.edu/biostat/) as a tenure-track assistant professor! (My job search experience is shared in my blog [here](/blog/job-search/).)
+__[News]__ My work "Model-Robust Inference for Clinical Trials that Improve Precision by Stratified Randomization and Adjustment for Covariate Adjustment" has been cited by the FDA in their 2023 Guidance for Industry: [“Adjusting for Covariates in Randomized Clinical Trials for Drugs and Biologics.”](https://www.fda.gov/media/148910/download) 
 
-__[News]__ My K99/R00 application was scored 10 (the best score) in the peer-review phase at NIAID! (My experience is shared in my blog [here](/blog/k99/).)
+__[News]__ My K99/R00 application was scored 10 (the best score) in the peer-review phase at NIAID! (My experience is shared in my blog [here](/blog/k99/).) I have started my K99 phase on May 1st, 2023.
+
+__[News]__ I will join the [Biostatistics department at the University of Michigan, Ann Arbor](https://sph.umich.edu/biostat/) as a tenure-track assistant professor in 2024! (My job search experience is shared in my blog [here](/blog/job-search/).)
+
