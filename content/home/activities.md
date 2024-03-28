@@ -8,7 +8,8 @@ widget: custom
 ---
 
 ### Awards
--	Election to membership of the Phi Beta Kappa Society (honor for excellence in scholarship), 2021.
+-	IMS New Researcher Travel Award, 2024.
+- Election to membership of the Phi Beta Kappa Society (honor for excellence in scholarship), 2021.
 -	Best student paper runner-up, ASA Biopharmaceutical Section, 2021.
 -	Margaret Merrell Award (awarded to one doctoral student per year for outstanding research), Johns Hopkins University Department of Biostatistics, 2021.
 -	Distinguished student paper award, ENAR International Biometric Society, 2021.

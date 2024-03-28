@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Analysis of Covariance (ANCOVA) in Randomized Trials</title>
+      <link>/publication/ancova/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/ancova/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bias in Neuroradiology Peer Review: Impact of a “Ding” on “Dinging” Others</title>

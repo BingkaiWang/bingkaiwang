@@ -7,26 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Analysis of Covariance (ANCOVA) in Randomized Trials</title>
-      <link>/publication/ancova/</link>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 -0400</pubDate>
+      <title>Semiparametric Partial Common Principal Component Analysis for Covariance Matrices</title>
+      <link>/publication/pcpca/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 -0400</pubDate>
       
-      <guid>/publication/ancova/</guid>
+      <guid>/publication/pcpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Whole-Brain Regression Method to Identify Individual and Group Variations in Functional Connectivity</title>
+      <link>/publication/yizhao2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/yizhao2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Covariate Assisted Principal Regression for Covariance Matrix Outcomes</title>
       <link>/publication/cov-reg/</link>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 -0400</pubDate>
       
       <guid>/publication/cov-reg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Robust Inference for Clinical Trials that Improve Precision by Stratified Randomization and Covariate Adjustment</title>
+      <link>/publication/covariate-adpative/</link>
+      <pubDate>Sun, 17 Nov 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/covariate-adpative/</guid>
       <description></description>
     </item>
     

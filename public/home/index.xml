@@ -2,59 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Bingkai Wang</title>
-    <link>/home/</link>
+    <link>https://infallible-jennings-0fe40d.netlify.com/home/</link>
     <description>Recent content in Homes on Bingkai Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://infallible-jennings-0fe40d.netlify.com/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/about/</link>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 -0400</pubDate>
+      <link>https://infallible-jennings-0fe40d.netlify.com/home/about/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 -0400</pubDate>
       
-      <guid>/home/about/</guid>
-      <description>Biography Bingkai Wang is a Ph.D student of Biostatistics in Johns Hopkins Bloomberg School of Public Health. Under the advisory of Prof. Michael Rosenblum and Prof. Brian Caffo, his research interests include covariate adjustment in randomized clinical trials, fMRI data analysis and application of machine learning algorithms.</description>
+      <guid>https://infallible-jennings-0fe40d.netlify.com/home/about/</guid>
+      <description>Biography I am a postdoctoral researcher in the Statistics and Data Science Department of the Wharton School, University of Pennsylvania (advised by Dylan Small and Nicholas P. Jewell).
+I got my PhD degree from the Biostatistics department at Johns Hopkins Bloomberg School of Public Health (advised by Michael Rosenblum and Brian Caffo).
+My research interests are in causal inference, randomized clinical trials, clustered data and their interactions with infectious disease research and computer sciences.</description>
     </item>
     
     <item>
-      <title>Experiences</title>
-      <link>/home/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/home/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/home/publications/</link>
+      <title>Selected Publications</title>
+      <link>https://infallible-jennings-0fe40d.netlify.com/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/publications/</guid>
-      <description></description>
+      <guid>https://infallible-jennings-0fe40d.netlify.com/home/publications/</guid>
+      <description>Causal inference for randomized clincial trials  Bingkai Wang, Xueqi Wang, Rui Wang, and Fan Li. (2024) “How to achieve model-robust inference in stepped wedge trials with model-based methods?” arXiv: 2401: 15680.
+ Bingkai Wang, Fan Li, and Rui Wang. (2024) “Handling incomplete outcomes and covariates in cluster-randomized trials: doubly-robust estimation, efficiency considerations, and sensitivity analysis.” arXiv: 2401.11278.
+ Bingkai Wang, Fan Li, and Mengxin Yu. (2024) “Conformal causal inference for cluster randomized trials: model-robust inference without asymptotic approximations.</description>
     </item>
     
     <item>
       <title>Activities</title>
-      <link>/home/activities/</link>
+      <link>https://infallible-jennings-0fe40d.netlify.com/home/activities/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/activities/</guid>
-      <description> Presentations  Benefits of adjustment for baseline variables in randomized trials. JSM, Baltimore, USA, July 2017. Clarifying How Adjustment for Prognostic Baseline Variables Leads to More Precision and Less Bias in Randomized Trials. ENAR, Atlanta, USA, March 2018.  Teaching  Teaching Assistant and Guest Lecturer, Statistical Theory I-IV, 2017-2018 Teaching Assistant and Guest Lecturer, Advanced Data Science I-II, 2018  </description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/home/contact/</guid>
-      <description></description>
+      <guid>https://infallible-jennings-0fe40d.netlify.com/home/activities/</guid>
+      <description>Awards  Election to membership of the Phi Beta Kappa Society (honor for excellence in scholarship), 2021. Best student paper runner-up, ASA Biopharmaceutical Section, 2021. Margaret Merrell Award (awarded to one doctoral student per year for outstanding research), Johns Hopkins University Department of Biostatistics, 2021. Distinguished student paper award, ENAR International Biometric Society, 2021. Student paper award, the Statistical Meeting in Imaging, 2020. Center of Excellence in Regulatory Science and Innovation (CERSI) Scholarship, U.</description>
     </item>
     
   </channel>

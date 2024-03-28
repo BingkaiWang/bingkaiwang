@@ -2,21 +2,233 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bingkai Wang on Bingkai Wang</title>
-    <link>/</link>
+    <link>https://infallible-jennings-0fe40d.netlify.com/</link>
     <description>Recent content in Bingkai Wang on Bingkai Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>My job search experience in Biostatisitcs (2022 winter)</title>
+      <link>https://infallible-jennings-0fe40d.netlify.com/blog/job-search/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://infallible-jennings-0fe40d.netlify.com/blog/job-search/</guid>
+      <description>
+
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#my-experience&#34; id=&#34;toc-my-experience&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;1&lt;/span&gt; My experience&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#background&#34; id=&#34;toc-background&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;1.1&lt;/span&gt; Background&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#results&#34; id=&#34;toc-results&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;1.2&lt;/span&gt; Results&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#things-i-learned&#34; id=&#34;toc-things-i-learned&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;2&lt;/span&gt; Things I learned&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#stat-versus-biostat&#34; id=&#34;toc-stat-versus-biostat&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;2.1&lt;/span&gt; Stat versus Biostat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#school-of-public-health-versus-school-of-medicine&#34; id=&#34;toc-school-of-public-health-versus-school-of-medicine&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;2.2&lt;/span&gt; School of Public Health versus School of Medicine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#grant-writing&#34; id=&#34;toc-grant-writing&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;2.3&lt;/span&gt; Grant writing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#tips-for-interviews&#34; id=&#34;toc-tips-for-interviews&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;3&lt;/span&gt; Tips for interviews&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#the-job-talk-is-the-most-important-thing&#34; id=&#34;toc-the-job-talk-is-the-most-important-thing&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;3.1&lt;/span&gt; The job talk is the most important thing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ask-more-questions&#34; id=&#34;toc-ask-more-questions&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;3.2&lt;/span&gt; Ask more questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#reading-materials&#34; id=&#34;toc-reading-materials&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;3.3&lt;/span&gt; Reading materials&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This blog post is written to share my job search experience and some thoughts, which can potentially benefit future faculty candidates. I want to thank the support of my postdoc mentors &lt;strong&gt;Drs. Dylan Small and Nicholas Jewell&lt;/strong&gt; and my PhD advisors &lt;strong&gt;Drs. Michael Rosenblum and Brian Caffo&lt;/strong&gt;. I also have deep appreciation for &lt;strong&gt;Drs. Mark Low, Scott Halpern, Fan Li, Michael Harhay, Yi Zhao, Rossi Xi, Jin Jin, Chan Park&lt;/strong&gt; for their help and advice during my job search.&lt;/p&gt;
+&lt;div id=&#34;my-experience&#34; class=&#34;section level1&#34; number=&#34;1&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;1&lt;/span&gt; My experience&lt;/h1&gt;
+&lt;div id=&#34;background&#34; class=&#34;section level2&#34; number=&#34;1.1&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;1.1&lt;/span&gt; Background&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Season&lt;/strong&gt;: 2022 Fall - 2023 Spring&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Target&lt;/strong&gt;: tenure-track faculty positions in Stat or Biostat in the U.S.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;My background&lt;/strong&gt;: PhD from Johns Hopkins (biostat) and postdoc of 18 month at Penn (Stat)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;CV&lt;/strong&gt;: click here for my &lt;a href=&#34;files/CV-jobsearch2022.pdf&#34;&gt;CV&lt;/a&gt; during job search&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Source of job postings&lt;/strong&gt;: University of Florida Statistics Jobs &lt;a href=&#34;https://forms.stat.ufl.edu/statistics-jobs/&#34; class=&#34;uri&#34;&gt;https://forms.stat.ufl.edu/statistics-jobs/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;results&#34; class=&#34;section level2&#34; number=&#34;1.2&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;1.2&lt;/span&gt; Results&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Submissions&lt;/strong&gt;: 16 Biostat and 15 Stat departments&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Onsite Interviews&lt;/strong&gt;: 9 Biostat (2 virtual) and 1 Stat. Some universities have zoom interviews for pre-screening. Most interviews are arranged in January, 2023.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Offers&lt;/strong&gt;: 5 offers in total, all from Biostat.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;things-i-learned&#34; class=&#34;section level1&#34; number=&#34;2&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;2&lt;/span&gt; Things I learned&lt;/h1&gt;
+&lt;div id=&#34;stat-versus-biostat&#34; class=&#34;section level2&#34; number=&#34;2.1&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;2.1&lt;/span&gt; Stat versus Biostat&lt;/h2&gt;
+&lt;p&gt;Briefly, the Stat department is usually &lt;strong&gt;“hard money”&lt;/strong&gt;, while most Biostat departments have &lt;strong&gt;“soft money”&lt;/strong&gt; components. “Hard money” means a faculty gets paid from teaching and service, while “soft money” means a faculty have to cover their own salary by grants, either independent fundings from NIH or NSF, or collaborative fundings from other departments. “Soft money” often indicates additional efforts to get paid and hence are regarded as inferior to “hard money”. The proportion of “soft money” varies by universities and career stages, typically ranging from 25% to 100%.&lt;/p&gt;
+&lt;p&gt;Biostatistics departments also put more emphasis on collaborative researches, i.e., your contribution to the advance of domain science. This emphasis is usually reflected by an anticipated fraction, say 40%, of your “soft money” salary supported by collaborators. For collaborative research, the role of a statistician can range from trial designs to data-driven statistical modeling. Meanwhile, independent methodological research is also important and much appreciated as in a Stat department. Many Biostatistics departments seek for a balance between collaborative and independent research, while their definitions of balance may vary.&lt;/p&gt;
+&lt;p&gt;If you are an applied statistician or interested in health science, a faculty position in Biostatistics can be a good fit. If you are obsessed by statistical theory and would like to publish more papers in &lt;em&gt;Annals of Statistics&lt;/em&gt;, then Statistics departments are more appropriate. However, applicants for Statistics are often &lt;strong&gt;way more competitive&lt;/strong&gt; than Biostatistics, given my experience and stories I heard. If you choose to go for Biostatistics, also be mindful about the “soft money” pressure in the future.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;school-of-public-health-versus-school-of-medicine&#34; class=&#34;section level2&#34; number=&#34;2.2&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;2.2&lt;/span&gt; School of Public Health versus School of Medicine&lt;/h2&gt;
+&lt;p&gt;For Biostatistics departments, there are some differences between School of Public Health and School of Medicine. The former highlights more on the education, meaning more teaching load, while the latter emphasizes collaboration, indicating more collaborative duty. In addition, school of Public Health often has a smaller proportion of soft money, less grant pressure, lower salary on average, and more free time for individual research.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;grant-writing&#34; class=&#34;section level2&#34; number=&#34;2.3&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;2.3&lt;/span&gt; Grant writing&lt;/h2&gt;
+&lt;p&gt;Due to the “soft money” nature of Biostatistics departments, grant writing is an important part of work. First, for promotion, many departments would expect a single PI R01 grant (or equivalent). Second, if you have your own grant, then you will have more time to do your own research (You will be your own boss!). Third, extramural grants are strong evidence of academic independence and reputation.&lt;/p&gt;
+&lt;p&gt;It is hard to get an R01. According to NIH summary statistics, the chance is less than 15%. Therefore, getting an R01 is often the most challenging part for junior faculties. Surprisingly, most faculty candidates have no experience in grant writing. If a candidate has demonstrated a successful grant writing experience, then it will be a &lt;strong&gt;big bonus&lt;/strong&gt;. For grant writing, I wrote another &lt;a href=&#34;https://infallible-jennings-0fe40d.netlify.com/blog/k99/&#34;&gt;blog&lt;/a&gt; sharing my experience.&lt;/p&gt;
+&lt;p&gt;There are many opportunities to gain grant writing experiences. NIH has T grants and K grants, which are intended for trainees. Many universities also have internal grant opportunities. For international students, there are fewer opportunities, but K99 is a very good venue for postdocs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;tips-for-interviews&#34; class=&#34;section level1&#34; number=&#34;3&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;3&lt;/span&gt; Tips for interviews&lt;/h1&gt;
+&lt;div id=&#34;the-job-talk-is-the-most-important-thing&#34; class=&#34;section level2&#34; number=&#34;3.1&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;3.1&lt;/span&gt; The job talk is the most important thing&lt;/h2&gt;
+&lt;p&gt;All faculties I asked for interview advice agreed that the job talk is the most important. Unfortunately, many faculty candidates with strong CVs gave bad job talks, and attributed their failure to the unfair market.&lt;/p&gt;
+&lt;p&gt;Presentation is an art. Therefore, different people have different standards of good arts. Here are some high-level standards I hold:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Less is more&lt;/strong&gt;. Most presentations I have seen put way more words in slides than necessary. More words are not helpful since people can get exhausted very quickly. It is just a lazy way to put every sentence we want to say into the slides.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Design your story&lt;/strong&gt;. We like watching movies and shows because they are so well narrated and vivid. There are a lot we can learn from them. For example, make the story attractive at the beginning, and make the punchline in the end. Use figures to replace words. Introduce some humor. Pause or accelerate at different slides.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;The first 10 minutes are key&lt;/strong&gt;. This is the maximum of time to let the audience know what you are doing and why it is important. Some people want to talk about many papers in 45 minutes, which makes the first 10 minutes super challenging. If the audience are lost in the first 10 min, then they will lose all the rest. In addition, since most of the audience will not be in your field, the first 10 minutes should be as non-technical as possible.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Practice&lt;/strong&gt;. The key to give a good talk is to practice and practice. Good presenters will provide valuable feedback. Tough questions can test our ability to provide responses. The more to practice, the better it will be.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ask-more-questions&#34; class=&#34;section level2&#34; number=&#34;3.2&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;3.2&lt;/span&gt; Ask more questions&lt;/h2&gt;
+&lt;p&gt;A big component of onsite interviews is to talk to faculties. This component starts from breakfast and ends after dinner. It is exhausting. Some faculties will keep asking questions, and what we need to do is to appropriately respond. For examples, ideas of each paper, vision, plans, teaching and mentoring and collaborative experiences, etc. So, be prepared.&lt;/p&gt;
+&lt;p&gt;What I want to highlight here is to ask them questions. Here are some questions I keep asking:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;What questions do you think are important in your field and promising in the next few years?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;What is your suggestion to junior researchers like me for their career development?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;How do you define success as a faculty in Biostatistics?&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I really benefit a lot by asking these questions. First, it is an excellent experience to learn from established faculties. For most faculties, the job interview is probably the only time I can talk to them one-on-one. And I do got valuable advice. Second, I saved my energy by letting them to talk. People just like talking about their own work and providing advice. Third, these questions can usually lead to positive impressions since they are mindful and non-standard.&lt;/p&gt;
+&lt;p&gt;In addition to these questions, also prepare some general topics to talk about informally. It is human nature that people like those who are alike. If you can find anything in common with the faculties, they are more likely to like you. For example, sports, music, workout, cooking, shows, etc. Besides, It is also helpful to prepare some funny stories to share during the dinner.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;reading-materials&#34; class=&#34;section level2&#34; number=&#34;3.3&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;3.3&lt;/span&gt; Reading materials&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;“&lt;strong&gt;The Professor Is In&lt;/strong&gt;” by Karen Kelsky. This book tells a lot details about the entire job search procedure, including basics like job application materials and tiny things like what to order in faculty dinners. Although this book is best suited for social science, I still highly recommend reading it.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;“&lt;strong&gt;Ted talks&lt;/strong&gt;”. More broadly, any book or material that teach you how to be a good presenter. It is such a pity if excellent research cannot be presented in an excellent way. We are trained to produce good research, and we should also learn how to sell it.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;Overall, job search is stressful and exhausting. However, this is also perfect time to know people and build connections. Life is a marathon and this is only one of the steps. Whatever the result is, try to enjoy the procedure and embrace the future!&lt;/p&gt;
+&lt;p&gt;Hope you find this article helpful!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How I got a perfect score in K99 application as a non-native writer</title>
+      <link>https://infallible-jennings-0fe40d.netlify.com/blog/k99/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://infallible-jennings-0fe40d.netlify.com/blog/k99/</guid>
+      <description>
+
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#my-experience-and-timeline&#34; id=&#34;toc-my-experience-and-timeline&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;1&lt;/span&gt; My experience and timeline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#four-things-before-i-start&#34; id=&#34;toc-four-things-before-i-start&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;2&lt;/span&gt; Four things before I start&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#four-suggestions-for-writing&#34; id=&#34;toc-four-suggestions-for-writing&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;3&lt;/span&gt; Four suggestions for writing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#for-non-native-postdocs&#34; id=&#34;toc-for-non-native-postdocs&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;4&lt;/span&gt; For non-native postdocs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;my-experience-and-timeline&#34; class=&#34;section level1&#34; number=&#34;1&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;1&lt;/span&gt; My experience and timeline&lt;/h1&gt;
+&lt;p&gt;In June 2022, my K99 application titled “improving the design and statistical analysis for cluster-randomized trials on tropical infectious diseases” to NIAID received an &lt;strong&gt;impact score of 10&lt;/strong&gt; (the perfect score). While it is well acknowledged that luck plays an essential role in the score, I would like to share my experience and write down my thoughts, which can benefit future applicants, especially non-native postdocs like me.&lt;/p&gt;
+&lt;p&gt;For most, I would like to sincerely thank my mentoring team Drs. Dylan Small, Nicholas Jewell, Wendy Prudhomme-O’Meara, Fan Li, my advisory committee Drs. Michael Harhay, Elizabeth Halloran, Elizabeth Turner, and reference letters from Drs. Brian Caffo, Michael Rosenblum, Elizabeth Ogburn, Yi Zhao, for their help and guidance. Particularly, I am sincerely grateful to&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Drs. &lt;strong&gt;Michael Harhay&lt;/strong&gt; and &lt;strong&gt;Fan Li&lt;/strong&gt;, who enthusiastically helped me throughout the application,&lt;/li&gt;
+&lt;li&gt;Monica Fread, Steven Fala, Carol Reich, the departmental grant team for their administrative and writing help,&lt;/li&gt;
+&lt;li&gt;Drs. Yi Zhao, Xi Luo, Wenpin Hou, Haoyu Zhang, Youjin Lee, who provided valuable suggestions on grant preparation,&lt;/li&gt;
+&lt;li&gt;Dr. Dylan Small, my postdoc primary mentor, for his persistent supportiveness.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Below is the timeline of my application:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;April 2021&lt;/strong&gt; In the first month of my postdoc, I first learned about the opportunity of the K99 grant.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;September 2021&lt;/strong&gt; I started to chat with people about whether to apply for K99 and how to prepare.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;October 2021&lt;/strong&gt; I began teaming up with mentors and brainstorming research aims and mentoring plans.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;December 8th 2021&lt;/strong&gt; I started full-time preparation.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;January 30th 2022&lt;/strong&gt; Writing finished.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;February 10th 2022&lt;/strong&gt; Application submitted (due Feb 14th).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;June 21th 2022&lt;/strong&gt; Impact score (10) received.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;July 28th 2022&lt;/strong&gt; Summary statement received.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;four-things-before-i-start&#34; class=&#34;section level1&#34; number=&#34;2&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;2&lt;/span&gt; Four things before I start&lt;/h1&gt;
+&lt;div id=&#34;plan-early-on-target-nih-institute-research-aims-and-mentoring-team.&#34; class=&#34;section level2&#34; number=&#34;2.1&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;2.1&lt;/span&gt; Plan early on target NIH institute, research aims, and mentoring team.&lt;/h2&gt;
+&lt;p&gt;As you can count from my thank note above, my K99 application involves 11 professors. To invite such a great number of people, I started thinking of who to invite 5 months before the due date. One prerequisite is the goal of this proposal: What is my career goal? What is my research interest in 5 years? In which area can I have the most chance? Answering these questions takes a long time for me. In the end, I chose infectious disease, an exciting domain that attracts increasing attention these days and where I have written articles. Then I wrote a specific-aim page, and sent it to potential mentors. In a few rounds, I finalized the mentoring team and its responsibilities. The advisory team were formed later in December, and the reference letters are all from my PhD advisers and collaborators.&lt;/p&gt;
+&lt;p&gt;You may ask: where can I find so many professors willing to help me? My short answer is to “ask”. Ask your mentor and collaborators who they know can be a good fit. Once you talk to their recommended people, ask again whether they know anyone willing to help. So on and so forth. Most people are nice, and very likely you won’t receive many no’s if the request is reasonable. However, when asking, please be polite and specific: e.g., the number and duration of meetings you need, the topic to discuss, and their responsibility. Don’t make vague requests.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;reach-out-for-advice-and-successful-k99-applications.&#34; class=&#34;section level2&#34; number=&#34;2.2&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;2.2&lt;/span&gt; Reach out for advice and successful K99 applications.&lt;/h2&gt;
+&lt;p&gt;I talked to many successful and unsuccessful K99 applicants before I started. Their advice covers many aspects of K99 application, which are very helpful to me and saved me a lot of time. Mainly, successful K99 applications are the most important references for writing. I learned a lot from their overall structure to tell the story, layout of tables and figures, narrative of the career development plan, writing style adapted for different sections, and wording of things in a much more fancy way.&lt;/p&gt;
+&lt;p&gt;I strongly recommend asking for as many K99 applications as possible. In addition, many K99 blogs are very good and provide very detailed instructions on how to prepare.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;collect-evidence-that-you-are-excellent.&#34; class=&#34;section level2&#34; number=&#34;2.3&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;2.3&lt;/span&gt; Collect evidence that you are excellent.&lt;/h2&gt;
+&lt;p&gt;I realized that K99 is different from R01 in that the research record of the applicant has a more significant weight. Hence, I tried my best to imrpove my CV: get old manuscripts published, write more manuscripts during postdoc, apply for all kinds of awards, give talks, organize sessions, etc. I believe that evidence of achievement is much more persuasive than complimentary sentences. In addition, I heard that K99 implicitly requires at least one first-authored manuscript during postdoc as evidence of productivity; so I wrote three before the due date.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;if-possible-attend-a-grant-writing-seminar-and-get-the-handbook.&#34; class=&#34;section level2&#34; number=&#34;2.4&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;2.4&lt;/span&gt; If possible, attend a grant writing seminar and get the handbook.&lt;/h2&gt;
+&lt;p&gt;One extremely useful thing for writing is the handbook disseminated in a grant writing seminar. I don’t think the handbook has an electronic version, but the seminar is provided regularly in many universities. I attended it at both Johns Hopkins University and Penn, taught by different instructors with roughly the same content. The seminar walks the audience through all sections of grant writing and provides proven templates for writing. Although the seminar is mainly for R grants, most of the content works for K grants as well. The handbook is the written version of the seminar, and I read it every night when I worked on the writing.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;four-suggestions-for-writing&#34; class=&#34;section level1&#34; number=&#34;3&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;3&lt;/span&gt; Four suggestions for writing&lt;/h1&gt;
+&lt;div id=&#34;read-the-guidance-carefully.&#34; class=&#34;section level2&#34; number=&#34;3.1&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;3.1&lt;/span&gt; Read the guidance carefully.&lt;/h2&gt;
+&lt;p&gt;This is the part I didn’t do well during the application, which caused me to find unwritten or wrongly-written materials several times near the due date. NIH has a 163-page “CAREER DEVELOPMENT INSTRUCTIONS FOR NIH AND OTHER PHS AGENCIES”, which I ignored at the beginning and later realized is vital, especially on the updated format and content requirement.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;create-a-writing-schedule-and-stick-with-it.&#34; class=&#34;section level2&#34; number=&#34;3.2&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;3.2&lt;/span&gt; Create a writing schedule and stick with it.&lt;/h2&gt;
+&lt;p&gt;Once you list everything you need to write, create a writing schedule since there are tons of things to write. Those things include summary, biosketch, narrative, career development plan, specific aims, research plan, mentoring plan, RCR training plan, budget justification, etc. A writing schedule can help you keep track of your progress and evaluate the workload.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;be-thoughtful-in-training-and-mentoring-plans.&#34; class=&#34;section level2&#34; number=&#34;3.3&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;3.3&lt;/span&gt; Be thoughtful in training and mentoring plans.&lt;/h2&gt;
+&lt;p&gt;Training and mentoring plans are important scoring aspects. Besides apparent things such as courses and meetings, think deeper about how to improve yourself. In my career development plan, I wrote courses in epidemiology, summer institutes, one-on-one regular meeting with mentors, trip to Kenya for clinical experience, manuscripts preparation, writing courses, RCR training, seminars, etc. Likewise, for mentoring plans, one could be specific on training and how to evaluate the progress.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ask-for-feedback.&#34; class=&#34;section level2&#34; number=&#34;3.4&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;3.4&lt;/span&gt; Ask for feedback.&lt;/h2&gt;
+&lt;p&gt;Asking for feedback is probably the most common advice I have seen on grant writing. Indeed it can improve the proposal substantially. The only thing I’d like to add is to have someone carefully read the whole proposal and score it honestly like a major reviewer if possible.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;for-non-native-postdocs&#34; class=&#34;section level1&#34; number=&#34;4&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;4&lt;/span&gt; For non-native postdocs&lt;/h1&gt;
+&lt;p&gt;I highly recommend non-native writers to try K99 if you aim for a tenure-track position that requires grants in the US. First, the reward is high. Most people I know with a K99 grant can easily find an academic job and have protected research time in the first few years. In addition, K99 is the only grant an international postdoc can apply. Second, the chance is high compared to R grants. Usually, the funding rate is 20% for K99, while it’s about 14% for R01 grants for young investigators; the R00 grant, the second phase of K99, is also regarded as an R01 equivalence. Third, it is a valuable, mentored experience to improve writing. Even if it is not funded, the materials you wrote can be reused for job searching, the ideas you have can be applied, and the person you connect during the process can be valuable. All of them only take two months, roughly the time length of half a paper.&lt;/p&gt;
+&lt;div id=&#34;learn-the-grant-writing-style.&#34; class=&#34;section level2&#34; number=&#34;4.1&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;4.1&lt;/span&gt; Learn the grant writing style.&lt;/h2&gt;
+&lt;p&gt;Probably the hardest part for non-native postdocs is writing. Since we write in a second language, we can easily be imprecise, repetitive, or dull. There are many ways to improve your overall writing skills, but most effective ways require time. Grant writing, fortunately, have some shortcuts you can take since it has a specific writing style. As I mentioned above, you can use the handbook of grant writing or read successful grants to learn this style and wording. For many materials, the format is fixed, each paragraph has its own purpose, and what you need to do is to fill in phrases you just learned. In addition, some writing software, such as Grammarly, are also helpful.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;use-tables-and-figures.&#34; class=&#34;section level2&#34; number=&#34;4.2&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;4.2&lt;/span&gt; Use tables and figures.&lt;/h2&gt;
+&lt;p&gt;Without master-level writing skills, you can still write well using tables and figures. My career development plan has 4 pages, two of which only have tables. The first table describes my 4 career development goals with milestones. The second table introduces the mentoring team, with name, position, meeting frequency, and contribution to the mentorship. The third table shows the detailed time allocation for different tasks across years. The last table lists my training activities and their related career goals. In this way, not only the plan looks clear, the writing duty is substantially reduced. The same strategy can be also applied to the research plan and mentoring plan.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;identity-issue.&#34; class=&#34;section level2&#34; number=&#34;4.3&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;4.3&lt;/span&gt; Identity issue.&lt;/h2&gt;
+&lt;p&gt;If you are an international postdoc like me, be clear about the time span of a K99. I am using OPT and OPT extension for postdoc, which adds up to 3 years. Since I want to finish the one-year K99 training during my OPT extension, I have to start K99, if funded, at the end of my second year; since K99 requires roughly 12 months from submission to start, I need to submit at the beginning of my second year of postdoc. This calculation differs from person to person, while it is a thing that can cause unnecessary complexity.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Finally, for the question “How I got a perfect score in K99 application as a non-native writer”, my answer is “a lucky postdoc mentored by established, passionate professors guided by well-designed, mindful training plans with realistic, solid research aims written in a clear, nice way.”&lt;/p&gt;
+&lt;p&gt;Hope you find this article helpful.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>How to build a personal webpage in R</title>
-      <link>/blog/how-to-build-such-a-website/</link>
+      <link>https://infallible-jennings-0fe40d.netlify.com/blog/how-to-build-such-a-website/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/how-to-build-such-a-website/</guid>
+      <guid>https://infallible-jennings-0fe40d.netlify.com/blog/how-to-build-such-a-website/</guid>
       <description>
+&lt;script src=&#34;https://infallible-jennings-0fe40d.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
@@ -43,9 +255,9 @@
 &lt;li&gt;With GitHub, once you push a change, it will show on the webpage immediately.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In this article, I will give an overview on how to construct a website using &lt;code&gt;Blogdown&lt;/code&gt;. A detailed and well-written tutorial of &lt;code&gt;Blogdown&lt;/code&gt; can be found &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;div id=&#34;build-your-website-using-blogdown&#34; class=&#34;section level1&#34;&gt;
+&lt;div id=&#34;build-your-website-using-blogdown&#34; class=&#34;section level1&#34; number=&#34;1&#34;&gt;
 &lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;1&lt;/span&gt; Build your website using Blogdown&lt;/h1&gt;
-&lt;div id=&#34;prerequistes&#34; class=&#34;section level2&#34;&gt;
+&lt;div id=&#34;prerequistes&#34; class=&#34;section level2&#34; number=&#34;1.1&#34;&gt;
 &lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;1.1&lt;/span&gt; Prerequistes&lt;/h2&gt;
 &lt;p&gt;To use the R package &lt;code&gt;Blogdown&lt;/code&gt;, here is some knowledge you need to know:&lt;/p&gt;
 &lt;ul&gt;
@@ -55,11 +267,13 @@
 &lt;/ul&gt;
 &lt;p&gt;If you are familiar with all of above, then you are ready to start!&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;steps-to-build-a-website&#34; class=&#34;section level2&#34;&gt;
+&lt;div id=&#34;steps-to-build-a-website&#34; class=&#34;section level2&#34; number=&#34;1.2&#34;&gt;
 &lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;1.2&lt;/span&gt; Steps to build a website&lt;/h2&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;p&gt;Open Rstudio and install required packages by &lt;code&gt;install.packages(&amp;quot;blogdown&amp;quot;)&lt;/code&gt; and &lt;code&gt;blogdown::install_hugo()&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Make sure your Rstudio version is at least v1.1.383. Then create a website project from the menu &lt;code&gt;File -&amp;gt; New Project -&amp;gt; New Directory&lt;/code&gt;. In the next step, select &lt;code&gt;Website using blogdown&lt;/code&gt;. In the next step, choose the directory, give a directory name and click “Create Project”. (Notice that the default theme is “hugo-lithium”.How to use others themes is introduced in the next section.) &lt;img src=&#34;/img/blog-img/how-to-build-such-a-website/steps1.png&#34; /&gt; &lt;img src=&#34;/img/blog-img/how-to-build-such-a-website/steps2.png&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Open Rstudio and install required packages by &lt;code&gt;install.packages(&#34;blogdown&#34;)&lt;/code&gt; and &lt;code&gt;blogdown::install_hugo()&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Make sure your Rstudio version is at least v1.1.383. Then create a website project from the menu &lt;code&gt;File -&amp;gt; New Project -&amp;gt; New Directory&lt;/code&gt;. In the next step, select &lt;code&gt;Website using blogdown&lt;/code&gt;. In the next step, choose the directory, give a directory name and click “Create Project”. (Notice that the default theme is “hugo-lithium”.How to use others themes is introduced in the next section.)
+&lt;img src=&#34;https://infallible-jennings-0fe40d.netlify.com/img/blog-img/how-to-build-such-a-website/steps1.png&#34; /&gt;
+&lt;img src=&#34;https://infallible-jennings-0fe40d.netlify.com/img/blog-img/how-to-build-such-a-website/steps2.png&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Once you create your project, you will find a bunch of files and folders in this directory. Don’t worry, since you will only care about the following three:&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
@@ -72,44 +286,36 @@ Follow the instructions given by the theme to change options in &lt;code&gt;conf
 &lt;li&gt;Use the command &lt;code&gt;blogdown:::serve_site()&lt;/code&gt; to run your project. You will see the website in the “Viewer” window. You only need to run this command once and all changes after that will be automatically synchronized.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
-&lt;div id=&#34;change-the-theme&#34; class=&#34;section level2&#34;&gt;
+&lt;div id=&#34;change-the-theme&#34; class=&#34;section level2&#34; number=&#34;1.3&#34;&gt;
 &lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;1.3&lt;/span&gt; Change the theme&lt;/h2&gt;
 &lt;p&gt;A theme, or called “Hugo theme”, is basically a template for building a website. Given a theme, what’s left is just adding your materials. Aside from the default theme, there are a lot of themes available &lt;a href=&#34;http://themes.gohugo.io&#34;&gt;here&lt;/a&gt; for different purposes.&lt;/p&gt;
 &lt;p&gt;To use a different theme, you need to find the GitHub repository for that theme and specify it when creating the website project. For example, I used the “Academic Theme”, whose GitHub repo is &lt;code&gt;gcushen/hugo-academic&lt;/code&gt;. In the GitHub repo page, a documentation file is usually given. Not all of those themes have the function you desire. In this case, just go for another one and read the documentation.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id=&#34;publish-your-website&#34; class=&#34;section level1&#34;&gt;
+&lt;div id=&#34;publish-your-website&#34; class=&#34;section level1&#34; number=&#34;2&#34;&gt;
 &lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;2&lt;/span&gt; Publish your website&lt;/h1&gt;
 &lt;p&gt;Once you finish building the website locally, it’s time to publish it.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;First connect this R project to a GitHub repository. (See &lt;a href=&#34;https://happygitwithr.com/rstudio-git-GitHub.html&#34;&gt;here&lt;/a&gt; for how to do this.)&lt;/li&gt;
 &lt;li&gt;Go to &lt;a href=&#34;https://www.netlify.com/&#34;&gt;Netlify&lt;/a&gt;, which is a website for deploying your website. Login with you GitHub account and click “New site from Git”. Follow the instructions to deploy.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/img/blog-img/how-to-build-such-a-website/sec3-1.png&#34; /&gt; Notice that in the last step, please make sure that the &lt;code&gt;HUGO_VERSION&lt;/code&gt; parameter has the correct value, which means you need to use the Hugo version described in the theme documentation. (The Academic theme requires version 0.42.)&lt;/p&gt;
-&lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;/img/blog-img/how-to-build-such-a-website/sec3-2.png&#34; /&gt;
-
-&lt;/div&gt;
+&lt;p&gt;&lt;img src=&#34;https://infallible-jennings-0fe40d.netlify.com/img/blog-img/how-to-build-such-a-website/sec3-1.png&#34; /&gt;
+Notice that in the last step, please make sure that the &lt;code&gt;HUGO_VERSION&lt;/code&gt; parameter has the correct value, which means you need to use the Hugo version described in the theme documentation. (The Academic theme requires version 0.42.)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://infallible-jennings-0fe40d.netlify.com/img/blog-img/how-to-build-such-a-website/sec3-2.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;It takes a few minutes to deploy. Once finished, you will get a domain like &lt;code&gt;*.netfily.com&lt;/code&gt;, where &lt;code&gt;*&lt;/code&gt; is a random string. By visiting this address on a web browser, you will be able to see you website.&lt;/p&gt;
 &lt;p&gt;The benefit of connecting your website to you GitHub account is that, once you push a change, Netlify will catch that change in your GitHub repo and update your website automatically. This means you don’t need to deploy your website every time you make a change.&lt;/p&gt;
 &lt;p&gt;I only used Netlify for deployment, but there are also other tools available. Personally I think it’s simple and fast with Netlify.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;customize-your-domain&#34; class=&#34;section level1&#34;&gt;
+&lt;div id=&#34;customize-your-domain&#34; class=&#34;section level1&#34; number=&#34;3&#34;&gt;
 &lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;3&lt;/span&gt; Customize your domain&lt;/h1&gt;
 &lt;p&gt;Having a website with random domain is not satisfying. It would be great if the personal website has domain &lt;code&gt;yourname.com.&lt;/code&gt; For doing this, I bought such a domain on &lt;a href=&#34;https://www.namecheap.com/&#34;&gt;namecheap&lt;/a&gt;. It cost me $7.99 per year. (There are also others available.)&lt;/p&gt;
 &lt;p&gt;Then you connect your website with this domain. In your Netlify homepage, click “Domains” on the Navigation bar and the click “Add or register domain”.&lt;/p&gt;
-&lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;/img/blog-img/how-to-build-such-a-website/sec3-3.png&#34; /&gt;
-
-&lt;/div&gt;
+&lt;p&gt;&lt;img src=&#34;https://infallible-jennings-0fe40d.netlify.com/img/blog-img/how-to-build-such-a-website/sec3-3.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Following the instructions, you will be provided some DNS, which is used to link you website and you domain. Then go back to &lt;a href=&#34;https://www.namecheap.com/&#34;&gt;namecheap&lt;/a&gt;, enter “Domain List” and click the “manage” button of your domain. Then in the “Nameserver” panel, type the DNS you got from Netlify and save the change.&lt;/p&gt;
-&lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;/img/blog-img/how-to-build-such-a-website/sec3-4.png&#34; /&gt;
-
-&lt;/div&gt;
+&lt;p&gt;&lt;img src=&#34;https://infallible-jennings-0fe40d.netlify.com/img/blog-img/how-to-build-such-a-website/sec3-4.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Check an hour later by using the new domain, and you will see your website!&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;resources-and-tools&#34; class=&#34;section level1&#34;&gt;
+&lt;div id=&#34;resources-and-tools&#34; class=&#34;section level1&#34; number=&#34;4&#34;&gt;
 &lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;4&lt;/span&gt; Resources and tools&lt;/h1&gt;
 &lt;p&gt;I learned most of the knowledge from the following webpages:&lt;/p&gt;
 &lt;ul&gt;
@@ -127,46 +333,11 @@ Follow the instructions given by the theme to change options in &lt;code&gt;conf
     </item>
     
     <item>
-      <title>Template</title>
-      <link>/blog/template/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/template/</guid>
-      <description>
-
-
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;R Markdown&lt;/h2&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;When you click the &lt;strong&gt;Knit&lt;/strong&gt; button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Including Plots&lt;/h2&gt;
-&lt;p&gt;You can also embed plots, for example:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/blog/template_files/figure-html/pressure-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Note that the &lt;code&gt;echo = FALSE&lt;/code&gt; parameter was added to the code chunk to prevent printing of the R code that generated the plot.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;formula&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Formula&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[ a + b  = c\]&lt;/span&gt;.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Example Page</title>
-      <link>/tutorial/example/</link>
+      <link>https://infallible-jennings-0fe40d.netlify.com/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tutorial/example/</guid>
+      <guid>https://infallible-jennings-0fe40d.netlify.com/tutorial/example/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -182,48 +353,11 @@ Follow the instructions given by the theme to change options in &lt;code&gt;conf
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Analysis of Covariance (ANCOVA) in Randomized Trials</title>
-      <link>/publication/ancova/</link>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/ancova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bias in Neuroradiology Peer Review: Impact of a “Ding” on “Dinging” Others</title>
-      <link>/publication/ajnr/</link>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/ajnr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Covariate Assisted Principal Regression for Covariance Matrix Outcomes</title>
-      <link>/publication/cov-reg/</link>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/cov-reg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Example Talk</title>
-      <link>/talk/example/</link>
+      <link>https://infallible-jennings-0fe40d.netlify.com/talk/example/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>/talk/example/</guid>
+      <guid>https://infallible-jennings-0fe40d.netlify.com/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
@@ -246,10 +380,10 @@ Follow the instructions given by the theme to change options in &lt;code&gt;conf
     
     <item>
       <title>Slides</title>
-      <link>/slides/example-slides/</link>
+      <link>https://infallible-jennings-0fe40d.netlify.com/slides/example-slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/slides/example-slides/</guid>
+      <guid>https://infallible-jennings-0fe40d.netlify.com/slides/example-slides/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;

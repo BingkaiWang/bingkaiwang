@@ -2,34 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Bingkai Wang</title>
-    <link>/categories/r/</link>
+    <link>https://infallible-jennings-0fe40d.netlify.com/categories/r/</link>
     <description>Recent content in R on Bingkai Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 08 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://infallible-jennings-0fe40d.netlify.com/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>How to build a personal webpage in R</title>
-      <link>/blog/how-to-build-such-a-website/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+      <title>My job search experience in Biostatisitcs (2022 winter)</title>
+      <link>https://infallible-jennings-0fe40d.netlify.com/blog/job-search/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>/blog/how-to-build-such-a-website/</guid>
-      <description>1 Build your website using Blogdown 2 Publish your website 3 Customize your domain 4 Resources and tools   As a statistician, learning the basics of website construction is painful and time-consuming. To build a website without such knowledge, one option is to use an online webpage builder such as Wix and WordPress. Such online builders are easy to use, but there are deficiencies:
- You usually need to pay monthly to get rid of the logo or ads provided by the builder.</description>
+      <guid>https://infallible-jennings-0fe40d.netlify.com/blog/job-search/</guid>
+      <description>1 My experience  1.1 Background 1.2 Results  2 Things I learned  2.1 Stat versus Biostat 2.2 School of Public Health versus School of Medicine 2.3 Grant writing  3 Tips for interviews  3.1 The job talk is the most important thing 3.2 Ask more questions 3.3 Reading materials    This blog post is written to share my job search experience and some thoughts, which can potentially benefit future faculty candidates.</description>
     </item>
     
     <item>
-      <title>Template</title>
-      <link>/blog/template/</link>
+      <title>How I got a perfect score in K99 application as a non-native writer</title>
+      <link>https://infallible-jennings-0fe40d.netlify.com/blog/k99/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://infallible-jennings-0fe40d.netlify.com/blog/k99/</guid>
+      <description>1 My experience and timeline 2 Four things before I start 3 Four suggestions for writing 4 For non-native postdocs   1 My experience and timeline In June 2022, my K99 application titled “improving the design and statistical analysis for cluster-randomized trials on tropical infectious diseases” to NIAID received an impact score of 10 (the perfect score). While it is well acknowledged that luck plays an essential role in the score, I would like to share my experience and write down my thoughts, which can benefit future applicants, especially non-native postdocs like me.</description>
+    </item>
+    
+    <item>
+      <title>How to build a personal webpage in R</title>
+      <link>https://infallible-jennings-0fe40d.netlify.com/blog/how-to-build-such-a-website/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/template/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
+      <guid>https://infallible-jennings-0fe40d.netlify.com/blog/how-to-build-such-a-website/</guid>
+      <description>1 Build your website using Blogdown 2 Publish your website 3 Customize your domain 4 Resources and tools   As a statistician, learning the basics of website construction is painful and time-consuming. To build a website without such knowledge, one option is to use an online webpage builder such as Wix and WordPress. Such online builders are easy to use, but there are deficiencies:
+ You usually need to pay monthly to get rid of the logo or ads provided by the builder.</description>
     </item>
     
   </channel>

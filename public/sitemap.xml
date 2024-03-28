@@ -4,7 +4,23 @@
     
     <url>
     
-      <loc>/blog/how-to-build-such-a-website/</loc>
+      <loc>https://infallible-jennings-0fe40d.netlify.com/blog/job-search/</loc>
+      <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://infallible-jennings-0fe40d.netlify.com/blog/k99/</loc>
+      <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://infallible-jennings-0fe40d.netlify.com/blog/how-to-build-such-a-website/</loc>
       <lastmod>2019-02-08T00:00:00+00:00</lastmod>
     </url>
     
@@ -12,15 +28,7 @@
     
     <url>
     
-      <loc>/blog/template/</loc>
-      <lastmod>2019-02-08T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tutorial/example/</loc>
+      <loc>https://infallible-jennings-0fe40d.netlify.com/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00-04:00</lastmod>
     </url>
     
@@ -28,7 +36,7 @@
     
     <url>
     
-      <loc>/tutorial/</loc>
+      <loc>https://infallible-jennings-0fe40d.netlify.com/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00-04:00</lastmod>
     </url>
     
@@ -36,39 +44,7 @@
     
     <url>
     
-      <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/ancova/</loc>
-      <lastmod>2018-01-17T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/ajnr/</loc>
-      <lastmod>2018-01-17T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/cov-reg/</loc>
-      <lastmod>2018-01-17T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/blog/</loc>
+      <loc>https://infallible-jennings-0fe40d.netlify.com/blog/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -76,7 +52,7 @@
     
     <url>
     
-      <loc>/talk/example/</loc>
+      <loc>https://infallible-jennings-0fe40d.netlify.com/talk/example/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -84,7 +60,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://infallible-jennings-0fe40d.netlify.com/publication/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -92,7 +68,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://infallible-jennings-0fe40d.netlify.com/talk/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -100,8 +76,8 @@
     
     <url>
     
-      <loc>/publication_types/2/</loc>
-      <lastmod>2018-01-17T00:00:00-04:00</lastmod>
+      <loc>https://infallible-jennings-0fe40d.netlify.com/</loc>
+      <lastmod>2020-12-07T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -109,8 +85,7 @@
     
     <url>
     
-      <loc>/publication_types/3/</loc>
-      <lastmod>2018-01-17T00:00:00-04:00</lastmod>
+      <loc>https://infallible-jennings-0fe40d.netlify.com/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -118,8 +93,7 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2018-01-17T00:00:00-04:00</lastmod>
+      <loc>https://infallible-jennings-0fe40d.netlify.com/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -127,7 +101,8 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://infallible-jennings-0fe40d.netlify.com/categories/r/</loc>
+      <lastmod>2023-03-07T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -135,8 +110,7 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
-      <lastmod>2018-01-17T00:00:00-04:00</lastmod>
+      <loc>https://infallible-jennings-0fe40d.netlify.com/slides/</loc>
       <priority>0</priority>
     </url>
     
@@ -144,31 +118,14 @@
     
     <url>
     
-      <loc>/categories/r/</loc>
-      <lastmod>2019-02-08T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <loc>https://infallible-jennings-0fe40d.netlify.com/slides/example-slides/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/slides/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/slides/example-slides/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
+      <loc>https://infallible-jennings-0fe40d.netlify.com/tags/</loc>
       <priority>0</priority>
     </url>
     
