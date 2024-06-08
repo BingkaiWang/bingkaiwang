@@ -23,5 +23,4 @@ __[News]__ My work "Model-Robust Inference for Clinical Trials that Improve Prec
 
 __[News]__ My K99/R00 application was scored 10 (the best score) in the peer-review phase at NIAID! (My experience is shared in my blog [here](/blog/k99/).) I have started my K99 phase on May 1st, 2023 and my R00 on May 1st, 2024.
 
-__[News]__ I will join the [Biostatistics department at the University of Michigan, Ann Arbor](https://sph.umich.edu/biostat/) as a tenure-track assistant professor in 2024! (My job search experience is shared in my blog [here](/blog/job-search/).)
 
