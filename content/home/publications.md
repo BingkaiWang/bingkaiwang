@@ -40,6 +40,8 @@ exclude_selected = false
 
 ### Causal inference for randomized clincial trials
 
+- **Bingkai Wang** and Fan Li. (2024) "Asymptotic inference with flexible covariate adjustment under rerandomization and stratified rerandomization." arXiv:2406.02834.
+
 - **Bingkai Wang**, Xueqi Wang, Rui Wang, and Fan Li. (2024) “How to achieve model-robust inference in stepped wedge trials with model-based methods?” arXiv: 2401: 15680. 
 
 - **Bingkai Wang**, Fan Li, and Rui Wang. (2024) “Handling incomplete outcomes and covariates in cluster-randomized trials: doubly-robust estimation, efficiency considerations, and sensitivity analysis.” arXiv: 2401.11278. 
