@@ -40,6 +40,8 @@ exclude_selected = false
 
 ### Causal inference for randomized clincial trials
 
+- **Bingkai Wang**, Michael O. Harhay, Dylan S. Small, Tim P. Morris, and Fan Li. (2024). "[On the robustness and precision of mixed-model analysis of covariance in cluster-randomized trials.](https://arxiv.org/abs/2112.00832)"  *Statistical Science*.
+
 - **Bingkai Wang** and Fan Li. (2024) "Asymptotic inference with flexible covariate adjustment under rerandomization and stratified rerandomization." arXiv:2406.02834.
 
 - **Bingkai Wang**, Xueqi Wang, Rui Wang, and Fan Li. (2024) “How to achieve model-robust inference in stepped wedge trials with model-based methods?” arXiv: 2401: 15680. 
@@ -49,7 +51,7 @@ exclude_selected = false
 - **Bingkai Wang**, Fan Li, and Mengxin Yu. (2024) “Conformal causal inference for cluster randomized trials: model-robust inference without asymptotic approximations.” arXiv: 2401.01977. 
 
 - **Bingkai Wang**, Chan Park, Dylan Small, and Fan Li. (2023). "[Model-robust and efficient inference for cluster-randomized experiments.](https://doi.org/10.1080/01621459.2023.2289693)" *Journal of the American Statistical Association, Theory and Methods Section*, in press. 
-- **Bingkai Wang**, Michael O. Harhay, Dylan S. Small, Tim P. Morris, and Fan Li. (2023). "[On the robustness and precision of mixed-model analysis of covariance in cluster-randomized trials.](https://arxiv.org/abs/2112.00832)"  *arXiv*.
+
 - **Bingkai Wang**, Yu Du. (2021). "[Robustly leveraging the post-randomization information to improve precision in the analyses of randomized clinical trials.](https://arxiv.org/abs/2110.09645)" *International Journal of Biostatistics*, in press.
 - **Bingkai Wang**, Ryoko Susukida, Ramin Mojtabai, Masoumeh Amin-Esmaeili, and Michael Rosenblum. (2021). "[Model-robust inference for clinical trials that improve precision by stratified randomization and covariate adjustment.](https://doi.org/10.1080/01621459.2021.1981338)" *Journal of the American Statistical Association, Theory and Methods Section*, 118(542): 1152-1163.
 - **Bingkai Wang**, Elizabeth L. Ogburn, and Michael Rosenblum. (2019). "[Analysis of covariance in randomized trials: More precision and valid confidence intervals, without model assumptions.](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13062)" *Biometrics*, 75(4): 1391-1400. 

@@ -15,7 +15,8 @@ My CV is available [here](files/CV.pdf).
 
 I wrote blogs on my job search experience in 2022-2023 [here](/blog/job-search/) and my K99/R00 application experience [here](/blog/k99/).
 
-__I am looking for dedicated PhD students/postdocs!__
+
+__[News]__ My work "On the robustness and precision of mixed-model analysis of covariance in cluster-randomized trials" has been accepted by Statistical Science.
 
 __[News]__ I am fortunate to receive the 2024 IMS New Researcher Travel Award.
 
