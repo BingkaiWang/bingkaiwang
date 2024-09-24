@@ -44,15 +44,16 @@ exclude_selected = false
 
 - **Bingkai Wang** and Fan Li. (2024) "Asymptotic inference with flexible covariate adjustment under rerandomization and stratified rerandomization." arXiv:2406.02834.
 
-- **Bingkai Wang**, Xueqi Wang, Rui Wang, and Fan Li. (2024) “How to achieve model-robust inference in stepped wedge trials with model-based methods?” arXiv: 2401: 15680. 
+- **Bingkai Wang**, Xueqi Wang, and Fan Li. (2024) “How to achieve model-robust inference in stepped wedge trials with model-based methods?” *Biometrics*. 
 
 - **Bingkai Wang**, Fan Li, and Rui Wang. (2024) “Handling incomplete outcomes and covariates in cluster-randomized trials: doubly-robust estimation, efficiency considerations, and sensitivity analysis.” arXiv: 2401.11278. 
 
 - **Bingkai Wang**, Fan Li, and Mengxin Yu. (2024) “Conformal causal inference for cluster randomized trials: model-robust inference without asymptotic approximations.” arXiv: 2401.01977. 
 
-- **Bingkai Wang**, Chan Park, Dylan Small, and Fan Li. (2023). "[Model-robust and efficient inference for cluster-randomized experiments.](https://doi.org/10.1080/01621459.2023.2289693)" *Journal of the American Statistical Association, Theory and Methods Section*, in press. 
+- **Bingkai Wang**, Chan Park, Dylan Small, and Fan Li. (2023). "[Model-robust and efficient inference for cluster-randomized experiments.](https://doi.org/10.1080/01621459.2023.2289693)" *Journal of the American Statistical Association, Theory and Methods Section*. 
 
-- **Bingkai Wang**, Yu Du. (2021). "[Robustly leveraging the post-randomization information to improve precision in the analyses of randomized clinical trials.](https://arxiv.org/abs/2110.09645)" *International Journal of Biostatistics*, in press.
+- **Bingkai Wang**, Yu Du. (2021). "[Robustly leveraging the post-randomization information to improve precision in the analyses of randomized clinical trials.](https://arxiv.org/abs/2110.09645)" *International Journal of Biostatistics*.
+
 - **Bingkai Wang**, Ryoko Susukida, Ramin Mojtabai, Masoumeh Amin-Esmaeili, and Michael Rosenblum. (2021). "[Model-robust inference for clinical trials that improve precision by stratified randomization and covariate adjustment.](https://doi.org/10.1080/01621459.2021.1981338)" *Journal of the American Statistical Association, Theory and Methods Section*, 118(542): 1152-1163.
 - **Bingkai Wang**, Elizabeth L. Ogburn, and Michael Rosenblum. (2019). "[Analysis of covariance in randomized trials: More precision and valid confidence intervals, without model assumptions.](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13062)" *Biometrics*, 75(4): 1391-1400. 
 
