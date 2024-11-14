@@ -7,6 +7,12 @@ weight: 60
 widget: custom
 ---
 
+### Grant
+NIH NIAID K99/R00 AI173395
+Improving the design and statistical analysis of cluster-randomized trials on tropical infectious diseases
+Role: PI
+
+
 ### Awards
 -	IMS New Researcher Travel Award, 2024.
 - Election to membership of the Phi Beta Kappa Society (honor for excellence in scholarship), 2021.
@@ -15,10 +21,6 @@ widget: custom
 -	Distinguished student paper award, ENAR International Biometric Society, 2021.
 -	Student paper award, the Statistical Meeting in Imaging, 2020.
 -	Center of Excellence in Regulatory Science and Innovation (CERSI) Scholarship, U.S. Food and Drug Administration and Johns Hopkins University, 2017-2021.
--	Shanghai outstanding undergraduate student (for top 1% senior-year undergraduate students), 2016.
--	Fudan University undergraduate research fellowship, 2015-2016.
--	National Scholarship (for top 1% undergraduate students in China per year), 2014-2015.
--	Shanghai Scholarship (for top 5% undergraduate students in Shanghai), 2013.
 
 
 ### Invited Commentary Articles
