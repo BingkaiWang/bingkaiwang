@@ -7,7 +7,7 @@ widget: about
 
 ## Biography
 
-I am a tenure-track assistant professor in the Department of Biostatistics, School of Public Health, University of Michigan. My research interests are in causal inference, randomized clinical trials, clustered data and their interactions with infectious disease research. 
+I am a tenure-track assistant professor in the Department of Biostatistics, School of Public Health, University of Michigan. My research interests are in causal inference, randomized clinical trials, and arrary data analysis. 
 
 I was a postdoctoral researcher in the Statistics and Data Science Department of the Wharton School, University of Pennsylvania (advised by [Dylan Small](https://statistics.wharton.upenn.edu/profile/dsmall/) and [Nicholas P. Jewell](https://statistics.berkeley.edu/people/nicholas-p-jewell)). I got my PhD degree from the Biostatistics department at Johns Hopkins Bloomberg School of Public Health (advised by [Michael Rosenblum](https://www.jhsph.edu/faculty/directory/profile/2241/michael-a-rosenblum) and [Brian Caffo](https://www.jhsph.edu/faculty/directory/profile/1010/brian-s-caffo)).
 
