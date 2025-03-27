@@ -15,6 +15,8 @@ My CV is available [here](files/CV.pdf).
 
 I wrote blogs on my job search experience in 2022-2023 [here](/blog/job-search/) and my K99/R00 application experience [here](/blog/k99/).
 
+__[News]__ A manuscript "What Is a Stepped-Wedge Cluster Randomized Trial?" has been accepted by JAMA Internal Medicine.
+
 __[News]__ A manuscript "How to achieve model-robust inference in stepped wedge trials with model-based methods?" has been accepted by Biometrics.
 
 __[News]__ A manuscript "On the robustness and precision of mixed-model analysis of covariance in cluster-randomized trials" has been accepted by Statistical Science.
