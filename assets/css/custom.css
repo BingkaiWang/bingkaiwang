@@ -1,0 +1,7 @@
+.full-width-section .container,
+.full-width-section .container-xl,
+.full-width-section .container-lg,
+.full-width-section .container-md {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}

@@ -1,0 +1,43 @@
+# Display name
+title: Bingkai Wang
+
+# Role/position
+role: Assistant Professor
+
+# Short bio (supports Markdown)
+bio: |
+  Researcher in machine learning and computational biology.
+  Previously at MIT and Google Brain.
+
+# Organization(s)
+organizations:
+  - name: Stanford University
+    url: https://stanford.edu
+
+# Social/contact links
+social:
+  - icon: envelope
+    link: mailto:jane@stanford.edu
+  - icon: brands/github
+    link: https://github.com/janedoe
+  - icon: brands/twitter
+    link: https://twitter.com/janedoe
+  - icon: academicons/google-scholar
+    link: https://scholar.google.com/citations?user=...
+  - icon: brands/linkedin
+    link: https://linkedin.com/in/janedoe
+
+# Education (optional)
+education:
+  - course: PhD in Computer Science
+    institution: MIT
+    year: 2018
+  - course: BSc in Mathematics
+    institution: UC Berkeley
+    year: 2013
+
+# Interests (optional)
+interests:
+  - Machine Learning
+  - Computational Biology
+  - Open Science
