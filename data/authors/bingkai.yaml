@@ -40,22 +40,24 @@ links:
 interests:
   - Causal inference
   - Randomized trials
-  - AI/ML
+  - Large Language Models
+  - Machine learning
   - Model robustness
+  - Clustered data
+  - Conformal prediction
+  - Stepped-wedge design
+  - Test-negative design
 
 education:
   - degree: Postdoctoral researcher
     institution: University of Pennsylvania
-    start: 2021
-    end: 2024
+    start: 2021-2024
   - degree: PhD of Biostatistics
     institution: Johns Hopkins University
-    start: 2016
-    end: 2021
+    start: 2016-2021
   - degree: BS of Mathematics
     institution: Fudan University
-    start: 2012
-    end: 2016
+    start: 2012-2016
 
 # experience:
 #   - role: Senior AI Research Scientist
