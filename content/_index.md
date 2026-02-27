@@ -48,6 +48,9 @@ sections:
         - **Bingkai Wang**, Fan Li, and Rui Wang.  
         Handling incomplete outcomes and covariates in cluster-randomized trials: doubly-robust estimation, efficiency considerations, and sensitivity analysis.  
         _Biometrics_, in press, 2026.
+        - **Bingkai Wang** and Fan Li. 
+        On flexible covariate adjustment under covariate-constrained randomization.
+        _Clinical Trials_, in press 2026.
         - Fan Li, Jiaqi Tong, Chao Cheng, Xi Fang, Brennan Kahan, and **Bingkai Wang**.  
         Model-robust standardization in cluster-randomized trials.  
         _Statistics in Medicine_, in press, 2025.
